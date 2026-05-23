@@ -22,9 +22,9 @@ lang: "es"
 </div>
 
 <div class="stats-grid">
-<div class="stat-card"><strong>3293</strong><span>Herramientas exportadas</span></div>
+<div class="stat-card"><strong>3336</strong><span>Herramientas exportadas</span></div>
 <div class="stat-card"><strong>221</strong><span>Roles cubiertos</span></div>
-<div class="stat-card"><strong>2026-05-01</strong><span>Generado el</span></div>
+<div class="stat-card"><strong>2026-05-23</strong><span>Generado el</span></div>
 </div>
 
 ## Comienza aquí
@@ -46,49 +46,9 @@ lang: "es"
 
 <div class="tool-card" markdown="1">
 
-### [FapJOI](https://www.aimyflow.com/es/ai/fapjoi-com)
+### [Voice Cleaner](https://www.aimyflow.com/es/ai/voicecleaner-org)
 
-FapJOI es un sitio de imágenes y videos con IA para adultos que permite a los usuarios explorar y generar contenido pornográfico explícito y realista, principalmente para adultos que buscan entretenimiento sexual generado por IA. Para los moderadores de contenido y los equipos de confianza y seguridad, su formato generado por IA también puede hacer que los flujos de trabajo de clasificación y filtrado sean más importantes.
-
-**Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Gochu](https://www.aimyflow.com/es/ai/gochu-app)
-
-Gochu es una plataforma de chat de IA y generación de imágenes sin censura para adultos, que ayuda a los usuarios a crear personajes de IA, chatear libremente y generar imágenes sin registrarse. Puede ayudar a los creadores de contenido y a los equipos de productos conversacionales a acelerar el diseño de personajes, las pruebas de prompts y los flujos de trabajo iterativos de interacción con IA.
-
-**Roles adecuados:** Creador de contenido, Redactor publicitario, Creador de contenido para redes sociales
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [AI Rapper](https://www.aimyflow.com/es/ai/rapper-im)
-
-AI Rapper es un generador de rap con IA para crear letras de rap, voces y canciones completas a partir de temas, historias, artículos y tendencias, principalmente para raperos y aficionados al hip-hop. Puede acelerar los flujos de trabajo de letristas, compositores de estribillos y productores al generar borradores más rápidos y opciones de entrega para freestyle y desarrollo de temas.
-
-**Roles adecuados:** Creador de contenido, Productor de pódcast, Redactor publicitario, Amante de la música, Creador de contenido para redes sociales
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [MaxArt.ai](https://www.aimyflow.com/es/ai/maxart-ai)
-
-MaxArt.ai es una herramienta de efectos de video con IA que ayuda a los usuarios a transformar metraje con estilos cinematográficos, animaciones y mejoras visuales mediante indicaciones de texto o imágenes de referencia, principalmente para creadores y editores de video. Puede agilizar el trabajo de producción al ayudar a los equipos de marketing y contenido a generar visuales pulidos en segundos sin necesidad de habilidades técnicas de edición.
-
-**Roles adecuados:** Creador de contenido para redes sociales, Director de marketing digital, Creador de contenido, Diseñador gráfico
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [PredictMyBaby](https://www.aimyflow.com/es/ai/predictmybaby-com)
-
-PredictMyBaby es un generador de bebés con IA basado en fotos que ayuda a los padres a visualizar cómo podría verse su hijo al subir fotos de ambos progenitores. Para quienes planifican una familia y los equipos de contenido, agiliza la conceptualización visual con variaciones rápidas y realistas del rostro de bebé en distintas edades.
+Usa VoiceCleaner como limpiador de voz en línea para eliminar el ruido de fondo del audio, limpiar grabaciones de voz y previsualizar audio de podcasts o reuniones más claro.
 
 **Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
 
@@ -96,9 +56,29 @@ PredictMyBaby es un generador de bebés con IA basado en fotos que ayuda a los p
 
 <div class="tool-card" markdown="1">
 
-### [Speakoala](https://www.aimyflow.com/es/ai/speakoala-com)
+### [Image Layer Tool](https://www.aimyflow.com/es/ai/imagelayer)
 
-Speakoala es una extensión de texto a voz para el navegador que ayuda a los usuarios a escuchar páginas web, correos electrónicos, archivos PDF, documentos de Word y otros archivos locales, principalmente para personas que leen contenido en línea. Puede mejorar la accesibilidad y reducir la fatiga visual para profesionales que necesitan revisar texto sin usar las manos mientras trabajan o se desplazan.
+Usa ImageLayer.net para dividir imágenes de diseño, producto y contenido en capas de imagen transparentes editables para Photoshop, comercio electrónico y flujos de trabajo de contenido.
+
+**Roles adecuados:** Diseñador gráfico, Vendedor de comercio electrónico, Creador de contenido, Diseñador industrial, Ingeniero de software
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [StopScroll](https://www.aimyflow.com/es/ai/stopscroll)
+
+StopScroll es una herramienta de IA para crear y seleccionar miniaturas que genera múltiples opciones de miniaturas, compara sus fortalezas y debilidades, y recomienda la mejor portada antes de publicar, principalmente para creadores y canales sin rostro. Puede ayudar a equipos de video y creadores de contenido a tomar decisiones de publicación más rápidas al evaluar la curiosidad, la legibilidad, el contraste y el potencial de clic antes de subir el contenido.
+
+**Roles adecuados:** Creador de contenido para redes sociales, Productor de pódcast, Redactor publicitario, Creador de contenido
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Remova](https://www.aimyflow.com/es/ai/remova)
+
+Remova es una plataforma empresarial de gobernanza de IA para equipos que permite a las empresas usar ChatGPT, Claude, Gemini y más de 300 modelos con controles de políticas, enmascaramiento de datos sensibles, acceso basado en roles, visibilidad de auditoría y gestión de presupuesto. Ayuda a los equipos de TI, seguridad y operaciones a reducir fugas de datos y el uso indebido de la IA, manteniendo bajo control el acceso a los modelos y el gasto.
 
 **Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
 
@@ -106,9 +86,19 @@ Speakoala es una extensión de texto a voz para el navegador que ayuda a los usu
 
 <div class="tool-card" markdown="1">
 
-### [TabliSync](https://www.aimyflow.com/es/ai/tablisync-com)
+### [BookCoversLab](https://www.aimyflow.com/es/ai/bookcoverslab)
 
-TabliSync es un asistente de datos con IA que convierte imágenes y PDF en tablas editables de Excel, CSV, Google Sheets, Airtable o Notion, principalmente para personas que gestionan documentos escaneados y datos estructurados. Puede ayudar a los equipos de operaciones, finanzas y administración a reducir la captura manual y transformar informes, recibos y formularios en hojas de cálculo utilizables con mayor rapidez.
+BookCoversLab es una herramienta de publicación para KDP destinada a autores autopublicados que ayuda a crear, corregir, validar y exportar cubiertas de tapa blanda, tapa dura y libros electrónicos en formato PDF listo para impresión. Puede ayudar a autores, editores independientes y diseñadores de cubiertas a reducir el retrabajo en las cargas al detectar antes en el flujo de trabajo problemas de tamaño de corte, sangrado, lomo y cumplimiento.
+
+**Roles adecuados:** Vendedor de comercio electrónico, Redactor técnico, Diseñador gráfico, Escritor de ficción, Creador de contenido
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [CodingPlan](https://www.aimyflow.com/es/ai/codingplan)
+
+CodingPlan es una plataforma para comprar planes de codificación con IA de Alibaba, MiniMax, Kimi, GLM y Qwen, que ayuda a los desarrolladores a elegir planes de menor costo con cuotas y capacidades de modelo similares. Para programadores y equipos de ingeniería, puede reducir el gasto en IA sin perder acceso a herramientas adaptadas a flujos de trabajo de programación y desarrollo basado en agentes.
 
 **Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
 
@@ -116,9 +106,79 @@ TabliSync es un asistente de datos con IA que convierte imágenes y PDF en tabla
 
 <div class="tool-card" markdown="1">
 
-### [MyColoring.AI](https://www.aimyflow.com/es/ai/mycoloring-ai)
+### [Eva](https://www.aimyflow.com/es/ai/hireeva)
 
-MyColoring.AI es un generador de páginas para colorear con IA que convierte fotos o indicaciones de texto en páginas para colorear imprimibles, principalmente para padres, maestros, aficionados a las manualidades, amantes de las mascotas, organizadores de eventos y creadores de contenido. Puede acelerar la creación de contornos limpios y listos para imprimir para materiales didácticos, actividades de fiesta, proyectos de bricolaje y contenido para colorear publicable.
+Eva es una gerente de operaciones de IA para pequeñas empresas que ayuda a propietarios, fundadores y operadores a gestionar facturas, la búsqueda de leads, la prospección, los mensajes de clientes, los borradores de sitios y la creación de flujos de trabajo. Puede ayudar a los equipos de operaciones, ventas y administración a reducir el trabajo manual repetitivo y mantener organizados los registros, los seguimientos y las transferencias entre las herramientas empresariales de uso cotidiano.
+
+**Roles adecuados:** Director ejecutivo, Director de operaciones, Gerente de sucursal, Gerente de ventas de campo, Director de marketing digital
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Motion Control AI Video Generator](https://www.aimyflow.com/es/ai/fluxmov)
+
+Usa Motion Control AI para guiar el movimiento de personajes con un video de referencia. Reduce las suposiciones del prompt, la deriva facial, el movimiento aleatorio y los reintentos fallidos de video con IA.
+
+**Roles adecuados:** Creador de contenido para redes sociales, Productor de pódcast, Cineasta independiente, Diseñador gráfico, Redactor publicitario
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Signal Desk](https://www.aimyflow.com/es/ai/signal-desk-study-tools-netlify)
+
+Signal Desk es un generador gratuito de prompts de estudio con IA, sin inicio de sesión, que ayuda a los estudiantes a convertir apuntes de clase, lecturas, temas de examen y listas de fuentes en prompts para recuperación activa, cuestionarios, tarjetas de estudio y planes de estudio. Puede ayudar a los estudiantes y a los educadores centrados en el estudio a crear materiales de repaso y prácticas estructuradas más rápido sin renunciar al proceso de razonamiento.
+
+**Roles adecuados:** Tutor de preparación para exámenes, Consultor en tecnología educativa, Tutor de programación en línea, Profesor
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [AuraTuner](https://www.aimyflow.com/es/ai/auratuner)
+
+AuraTuner es una herramienta de IA de nivel profesional para crear imágenes de productos, visuales para fichas de ecommerce, pósteres y vídeos cortos de producto, principalmente para vendedores de ecommerce, profesionales del marketing y creadores de contenido. Puede ayudar a los equipos de producto y creativos a acelerar la edición de imágenes, la sustitución de fondos y la producción de vídeo con flujos de trabajo probados y ajustes preestablecidos de modelos.
+
+**Roles adecuados:** Vendedor de comercio electrónico, Creador de contenido, Director de marketing digital, Diseñador gráfico, Creador de contenido para redes sociales
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Image to Image AI](https://www.aimyflow.com/es/ai/aiimagetoimage)
+
+Generador gratuito de IA de imagen a imagen: sube cualquier foto, describe tu edición y obtén resultados fotorrealistas en segundos. No requiere registro. El mejor generador de imágenes con IA a partir de imágenes en línea.
+
+**Roles adecuados:** Vendedor de comercio electrónico, Creador de contenido, Diseñador gráfico, Agente inmobiliario, Diseñador de moda
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [RoleTTS](https://www.aimyflow.com/es/ai/roletts)
+
+RoleTTS es un generador de voz con IA para texto a voz de personajes, diseño de voces, clonación de voz, doblaje multilingüe y flujos de trabajo de avatares hablantes, principalmente para creadores que desarrollan contenido de historias, juegos y video. Ayuda a actores de voz, productores y equipos de videojuegos a dirigir interpretaciones expresivas línea por línea y mantener la coherencia de las voces de los personajes en audio y en avatares.
+
+**Roles adecuados:** Productor de pódcast, Cineasta independiente, Actor de voz, Creador de contenido para redes sociales, Creador de contenido
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [ScamSpot](https://www.aimyflow.com/es/ai/scamspot)
+
+Pega un mensaje, correo electrónico, texto de WhatsApp o URL sospechoso y obtén una revisión gratuita del riesgo de estafa con pasos claros a seguir.
+
+**Roles adecuados:** Analista de ciberseguridad, Gerente de ciberseguridad, Ingeniero de software
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Vizcept](https://www.aimyflow.com/es/ai/vizcept)
+
+Vizcept es un generador de diagramas conceptuales con IA que convierte descripciones en inglés sencillo en diagramas estructurados para estudiantes, investigadores y educadores. Puede ayudar a investigadores, instructores y estudiantes a ahorrar tiempo en figuras para publicaciones, recursos visuales para clases y diagramas para tareas, produciendo rápidamente resultados claros y editables.
 
 **Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
 
@@ -126,9 +186,29 @@ MyColoring.AI es un generador de páginas para colorear con IA que convierte fot
 
 <div class="tool-card" markdown="1">
 
-### [Road To Vostok Map — Area 05, POIs & Regional Overview](https://www.aimyflow.com/es/ai/roadtovostok-org-map)
+### [AiCartoon](https://www.aimyflow.com/es/ai/aicartoon)
 
-Mapa interactivo de Road To Vostok: Área 05, Zona Fronteriza y puntos de interés de Vostok, índice de búsqueda y panorama regional. Úsalo junto con el mapa del juego y confirma las coordenadas en el cliente.
+AiCartoon es un generador de dibujos animados con IA que convierte fotos en arte estilo caricatura, retratos estilizados y avatares para personas que buscan resultados rápidos de imagen a caricatura. Puede ayudar a creadores de redes sociales, diseñadores y profesionales del marketing a producir recursos visuales pulidos más rápido con controles de estilo, exportaciones sin marca de agua y opciones de uso comercial.
+
+**Roles adecuados:** Creador de contenido para redes sociales, Diseñador gráfico, Director de marketing digital, Redactor publicitario, Creador de contenido
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [CCNavX](https://www.aimyflow.com/es/ai/ccnavx)
+
+CCNavX es un sitio de comparación de API económicas de OpenAI, proxy de la API de Claude y proveedores compatibles con OpenAI, que ayuda a los usuarios a comparar precios, cobertura de modelos, métodos de pago y soporte de facturación. Está dirigido principalmente a desarrolladores y equipos que eligen proxies de API, donde unas comprobaciones claras de coste y compatibilidad pueden mejorar la planificación de la integración y los flujos de reembolso.
+
+**Roles adecuados:** Ingeniero de software, Gerente de infraestructura TI, Oficial de gestión de proyectos, Ingeniero de datos
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [ScanRead.ai](https://www.aimyflow.com/es/ai/scanread)
+
+ScanRead.ai es una herramienta OCR gratuita que extrae texto editable de imágenes, capturas de pantalla, PDFs escaneados y documentos para cualquiera que necesite convertir texto rápidamente. Puede ayudar a los equipos de operaciones, finanzas y administración a convertir recibos, contratos, notas e informes en texto buscable más rápido.
 
 **Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
 
@@ -136,39 +216,39 @@ Mapa interactivo de Road To Vostok: Área 05, Zona Fronteriza y puntos de inter�
 
 <div class="tool-card" markdown="1">
 
-### [Tarotool](https://www.aimyflow.com/es/ai/tarotool-com)
+### [TermsHuman](https://www.aimyflow.com/es/ai/termshuman)
 
-Tarotool es un sitio web gratuito de lectura de tarot impulsado por IA que ayuda a los usuarios a hacer preguntas sobre amor, carrera, dinero y la vida, principalmente para personas que buscan orientación inmediata en línea. Para lectores, coaches y creadores de contenido, sus interpretaciones personalizadas y rápidas pueden ayudar a convertir preguntas amplias en reflexiones más claras y en los siguientes pasos.
+TermsHuman es un analizador de contratos en lenguaje claro que resume términos de servicio, políticas y acuerdos, señala riesgos críticos y muestra compromisos clave en inglés o español para personas que necesitan revisar texto legal rápidamente. Puede ayudar a los equipos legales, de cumplimiento, compras y operaciones a agilizar la revisión de cláusulas y detectar términos desequilibrados antes de la aprobación.
 
-**Roles adecuados:** Coach de bienestar, Creador de contenido, Redactor publicitario
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Veo 3](https://www.aimyflow.com/es/ai/veo31video-com)
-
-Veo 3 es un generador de video con IA que crea videos cinematográficos a partir de texto o imágenes, con audio sincronizado, física realista y control de múltiples tomas, principalmente para creadores y equipos que producen contenido en video. Para productores de video, especialistas en marketing y equipos de contenido, puede acelerar la creación de escenas en etapas iniciales y ayudar a mantener la coherencia visual en secuencias complejas.
-
-**Roles adecuados:** Creador de contenido para redes sociales, Productor de pódcast, Creador de contenido, Director de marketing digital, Cineasta independiente
+**Roles adecuados:** Abogado, Director ejecutivo, Director financiero, Oficial de gestión de proyectos
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [GPT Image2](https://www.aimyflow.com/es/ai/gptimage-2-co)
+### [Veo 4 AI Video Generator Online](https://www.aimyflow.com/es/ai/veo4free)
 
-GPT Image2 es el generador de imágenes con IA de nueva generación de OpenAI para la creación de texto a imagen e imagen a imagen, dirigido principalmente a artistas, especialistas en marketing, diseñadores y otros creadores de contenido. Su renderizado de texto de nivel nativo, su fotorrealismo y su consistencia píxel a píxel pueden ayudar a los equipos creativos a producir carteles, maquetas de productos y recursos visuales más rápido y con menos retoques manuales.
+Veo 4 AI Video Generator Online es una herramienta basada en navegador para crear clips de texto a video e imagen a video, dirigida principalmente a creadores, especialistas en marketing, cineastas, educadores y equipos de contenido. Su audio nativo, salida 4K y consistencia de personajes pueden ayudar a los productores de video y a los equipos de marca a acelerar la conceptualización, la previsualización y la entrega de contenido para redes sociales.
 
-**Roles adecuados:** Diseñador gráfico, Diseñador industrial, Creador de contenido para redes sociales, Redactor publicitario, Creador de contenido
+**Roles adecuados:** Creador de contenido para redes sociales, Productor de pódcast, Cineasta independiente, Director de marketing digital, Creador de contenido
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [Free Online AI Baby Generator](https://www.aimyflow.com/es/ai/ai-babygenerator-com)
+### [AI Clean Voice](https://www.aimyflow.com/es/ai/voicecleaner)
 
-Descubre nuestro Generador de Bebés de IA en Línea Gratis, predice el aspecto de tu futuro bebé en segundos. Sube fotos, obtén imágenes de alta resolución, sin marcas de agua. Protegido por privacidad, servicio las 24 horas, los 7 días de la semana. ¡Prueba ahora!
+AI Clean Voice es un limpiador de voz con IA en línea que elimina el ruido de fondo, el viento y el eco para mejorar el habla en el audio subido, principalmente para podcasters, creadores de video, educadores y equipos de producción. Puede ayudar a editores de audio y equipos de contenido a agilizar el trabajo de limpieza mientras preserva la claridad vocal natural para una publicación más rápida.
+
+**Roles adecuados:** Productor de pódcast, Creador de contenido para redes sociales, Consultor en tecnología educativa, Redactor técnico, Redactor publicitario
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [AI Coloring Page Generator](https://www.aimyflow.com/es/ai/aicoloringpagegenerator)
+
+AI Coloring Page Generator es una herramienta que convierte ideas aptas para niños en páginas para colorear en blanco y negro imprimibles, con niveles de dificultad para distintas edades, principalmente para padres y profesores. Puede ayudar a educadores y cuidadores a crear rápidamente materiales imprimibles personalizados y apropiados para cada edad para lecciones, actividades de aula o juegos en casa.
 
 **Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
 
@@ -176,39 +256,19 @@ Descubre nuestro Generador de Bebés de IA en Línea Gratis, predice el aspecto 
 
 <div class="tool-card" markdown="1">
 
-### [HubVanta AI](https://www.aimyflow.com/es/ai/hubvanta-com)
+### [HMG Tools Redactor](https://www.aimyflow.com/es/ai/tools-hoppingmadgames)
 
-Plataforma integral gratuita para la creación de imágenes, videos, audio y texto de IA. Acceda a Midjourney, Flux AI, Stable Diffusion, Kling AI y más en un solo lugar.
+HMG Tools Redactor es una herramienta de redacción basada en navegador que ayuda a los usuarios a detectar y reemplazar texto sensible antes de que salga de su dispositivo, principalmente para personas que gestionan prompts, registros de soporte, facturas, notas escolares y borradores de clientes. Puede ayudar a equipos de soporte, redactores y administradores a reducir la exposición accidental al preparar texto para flujos de trabajo de IA o compartir documentos.
 
-**Roles adecuados:** Creador de contenido, Creador de contenido para redes sociales, Diseñador gráfico, Director de marketing digital
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Seedance 2.0 AI Video Generator](https://www.aimyflow.com/es/ai/seedances-app)
-
-Seedance 2.0 ofrece una revolución en la generación de videos de IA con resolución 2K y soporte de audio nativo. Crea videos cinematográficos a partir de texto o imágenes con entrada multimodal avanzada. Seedance 2 transforma tu visión creativa en realidad.
-
-**Roles adecuados:** Creador de contenido, Diseñador gráfico, Cineasta independiente
+**Roles adecuados:** Ingeniero de software, Redactor técnico, Redactor publicitario, Orientador escolar, Consultor en tecnología educativa
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [Sora2-AI.io](https://www.aimyflow.com/es/ai/sora2-ai-io)
+### [Thragg in Invincible](https://www.aimyflow.com/es/ai/thragg)
 
-Sora2-AI.io es un generador de videos de IA avanzado que transforma texto e imágenes en videos impresionantes. Prueba nuestro creador de videos de IA de forma gratuita - crea resultados profesionales en minutos
-
-**Roles adecuados:** Creador de contenido para redes sociales, Director de marketing digital, Creador de contenido
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [VideotoRecipe](https://www.aimyflow.com/es/ai/videotorecipe-org)
-
-Convierta los videos y Reels de cocina subidos por los usuarios de YouTube, Instagram, TikTok y Facebook en recetas. Generador de recetas de IA para notas, libro de cocina, creador de videos cortos.
+Explora a Thragg en Invincible con una guía centrada en quién es Thragg, su papel en el Imperio Viltrumita, cuán fuerte es y por qué Thragg vs. Battle Beast es el enfrentamiento que los lectores buscan primero.
 
 **Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
 
@@ -216,71 +276,11 @@ Convierta los videos y Reels de cocina subidos por los usuarios de YouTube, Inst
 
 <div class="tool-card" markdown="1">
 
-### [AI Video Generator with Sound](https://www.aimyflow.com/es/ai/plexigen-ai)
+### [WisGate](https://www.aimyflow.com/es/ai/wisgate)
 
-Plexigen AI genera videos con sonido sincronizado a partir de texto o imágenes, lo que ayuda a producir piezas visuales terminadas en varios formatos. Es útil para equipos de marketing, social y marca que necesitan velocidad sin depender de una cadena de producción audiovisual tradicional.
-
-**Roles adecuados:** Director de marketing digital, Creador de contenido para redes sociales, Redactor publicitario, Cineasta independiente, Diseñador gráfico
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [img2.ai](https://www.aimyflow.com/es/ai/img2-ai)
-
-img2.ai es una plataforma de creación visual con IA que convierte fotos o prompts en imágenes estilizadas, clips animados y recursos mejorados. Resulta útil para diseñadores, creadores y equipos de marketing que necesitan iterar piezas visuales con rapidez y sin flujos de edición complejos.
+WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores, creadores y equipos para acceder y comparar modelos de chat, imagen, video y generación de código a través de una sola interfaz. Puede ayudar a los equipos de producto e ingeniería a acelerar la integración y controlar la elección de modelos y los costos con enrutamiento y facturación centralizados.
 
 **Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Musiv](https://www.aimyflow.com/es/ai/musiv-ai)
-
-Musiv es un generador de videos musicales con IA que convierte una canción en clips visuales storyboardeados a partir del audio subido. Encaja con músicos, sellos y equipos de contenido que necesitan producir videos para lanzamientos y redes sociales con más rapidez y menor costo.
-
-**Roles adecuados:** Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario, Diseñador gráfico
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Photo Animate](https://www.aimyflow.com/es/ai/photoanimate-org)
-
-Photo Animate convierte imágenes fijas en clips de video con movimiento natural, adecuados para retratos, recuerdos y contenidos emocionales. Resulta útil para creadores, narradores familiares y equipos de medios que quieren animación fotográfica más realista sin edición manual compleja.
-
-**Roles adecuados:** Creador de contenido para redes sociales, Cineasta independiente, Diseñador gráfico, Redactor publicitario, Director de marketing digital
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Invicta AI](https://www.aimyflow.com/es/ai/invictai-io)
-
-Invicta AI es una plataforma sin código para crear equipos de agentes de IA que automatizan flujos de trabajo complejos en más de 70 herramientas y los principales LLM, principalmente para operaciones, atención al cliente, programación y equipos de desarrollo. En los flujos de trabajo habilitados por IA, puede ayudar a estos profesionales a escalar tareas repetitivas de varios pasos con controles de aprobación humana, ejecución por lotes y transferencias más consistentes entre sistemas.
-
-**Roles adecuados:** Oficial de gestión de proyectos, Director de operaciones, Gerente de desarrollo de software, Gerente de infraestructura TI, Gerente de éxito del cliente
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Kompas AI](https://www.aimyflow.com/es/ai/kompas-ai)
-
-Kompas AI es un servicio B2C de investigación con IA descontinuado que ayudaba a los usuarios a realizar investigaciones en profundidad mediante orquestación multiagente, gestión de ventanas de contexto y técnicas relacionadas de agentes de IA. Su transición planificada hacia el control de permisos y la gestión de seguridad de agentes de IA pone de relieve cómo los investigadores y los equipos de operaciones de IA necesitan cada vez más herramientas de gobernanza junto con flujos de trabajo avanzados de agentes.
-
-**Roles adecuados:** Científico de datos, Oficial de gestión de proyectos, Ingeniero de software, Gerente de ciberseguridad, Redactor técnico
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Context-Aware AI Testing Platform for Faster, Smarter Release](https://www.aimyflow.com/es/ai/contextqa-com)
-
-Asegura la calidad del código nuevo 10 veces más rápido con la única plataforma de pruebas de IA con reconocimiento de contexto. ContextQA utiliza IA agéntica para predecir, generar pruebas y validar cada lanzamiento.
-
-**Roles adecuados:** Gerente de desarrollo de software, Ingeniero de software, Oficial de gestión de proyectos, Gerente de infraestructura TI, Analista de ciberseguridad
 
 </div>
 
@@ -288,7 +288,7 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 ## Todas las herramientas
 
 <details markdown="1">
-<summary>Expandir el directorio completo de herramientas (3293)</summary>
+<summary>Expandir el directorio completo de herramientas (3336)</summary>
 
 <p class="section-note">_Vista compacta para explorar más rápido._</p>
 
@@ -553,9 +553,17 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - AI Book Summarizer es una herramienta de IA que convierte libros cargados en PDF, EPUB o TXT en resúmenes concisos y respuestas por capítulo, principalmente para estudiantes, profesionales y lectores habituales que...
   - *Roles adecuados:* Profesor, Profesor universitario, Analista financiero, Director ejecutivo +1 más
 
+- **[AI Clean Voice](https://www.aimyflow.com/es/ai/voicecleaner)**
+  - AI Clean Voice es un limpiador de voz con IA en línea que elimina el ruido de fondo, el viento y el eco para mejorar el habla en el audio subido, principalmente para podcasters, creadores de video, educadores y equipos...
+  - *Roles adecuados:* Productor de pódcast, Creador de contenido para redes sociales, Consultor en tecnología educativa, Redactor técnico +1 más
+
 - **[AI Clothes Changer](https://www.aimyflow.com/es/ai/aiclothes-ai)**
   - AI Clothes Changer es una herramienta virtual de prueba impulsada por IA que permite a los usuarios subir una foto, cambiar atuendos con imágenes de ropa o indicaciones de texto y generar cambios de vestimenta...
   - *Roles adecuados:* Diseñador de moda, Vendedor de comercio electrónico, Creador de contenido, Diseñador gráfico +1 más
+
+- **[AI Coloring Page Generator](https://www.aimyflow.com/es/ai/aicoloringpagegenerator)**
+  - AI Coloring Page Generator es una herramienta que convierte ideas aptas para niños en páginas para colorear en blanco y negro imprimibles, con niveles de dificultad para distintas edades, principalmente para padres y...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[AI Convert Hub](https://www.aimyflow.com/es/ai/aiconverthub-com)**
   - AI Convert Hub es un convertidor de archivos en línea que ayuda a los usuarios a convertir y comprimir por lotes archivos de video, audio e imagen con controles compatibles con códecs y compatibilidad con más de 200...
@@ -616,6 +624,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[AI Human Generator](https://www.aimyflow.com/es/ai/generated-photos-human-generator)**
   - AI Human Generator es una herramienta de IA para crear y modificar fotos hiperrealistas de cuerpo completo de personas que no existen, incluidos cambios en la ropa, el rostro, los rasgos corporales y las poses,...
   - *Roles adecuados:* Diseñador gráfico, Director de marketing digital, Creador de contenido, Creador de contenido para redes sociales +1 más
+
+- **[AI Humanizer](https://www.aimyflow.com/es/ai/ai-humanizer-online)**
+  - AI Humanizer es una herramienta de reescritura de texto que convierte contenido generado por IA en una escritura más natural y humana, preservando el significado, el tono y la estructura, principalmente para creadores...
+  - *Roles adecuados:* Redactor publicitario, Creador de contenido para redes sociales, Redactor técnico, Creador de contenido
 
 - **[AI Image Detector](https://www.aimyflow.com/es/ai/aiimagedetector-com)**
   - AI Image Detector es una herramienta web gratuita que analiza imágenes cargadas para estimar si fueron generadas por IA, ayudando a periodistas, educadores, artistas y equipos empresariales o legales a verificar la...
@@ -789,6 +801,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - AI Tattoo Cover Up Generator es una herramienta de IA que ayuda a las personas con tatuajes no deseados o anticuados a subir una foto, seleccionar la zona y generar ideas preliminares de diseños de cobertura en...
   - *Roles adecuados:* Diseñador gráfico, Diseñador de interiores, Creador de contenido
 
+- **[AI Timeline Maker](https://www.aimyflow.com/es/ai/timeline-maker)**
+  - AI Timeline Maker es una herramienta gratuita para crear, editar y compartir líneas de tiempo visuales a partir de indicaciones o documentos, principalmente para gestores de proyectos, estudiantes, profesores y...
+  - *Roles adecuados:* Oficial de gestión de proyectos, Consultor en tecnología educativa, Profesor, Creador de contenido para redes sociales +1 más
+
 - **[AI UGC Video Generator](https://www.aimyflow.com/es/ai/aiugcvideogen-com)**
   - AI UGC Video Generator es una herramienta de creación de anuncios en video con IA que convierte indicaciones e imágenes de productos en anuncios cortos de estilo UGC con avatares, locuciones y formatos específicos para...
   - *Roles adecuados:* Director de marketing digital, Responsable de ventas e-commerce, Creador de contenido para redes sociales, Director ejecutivo +1 más
@@ -863,6 +879,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[AiBERT](https://www.aimyflow.com/es/ai/aibert-co)**
   - AiBERT es un asistente de IA basado en WhatsApp que ayuda a los usuarios a generar texto, imágenes, respuestas de voz, transcripciones y resúmenes en PDF dentro del chat, principalmente para personas que quieren...
   - *Roles adecuados:* Director de marketing digital, Creador de contenido para redes sociales, Redactor publicitario, Redactor técnico +1 más
+
+- **[AiCartoon](https://www.aimyflow.com/es/ai/aicartoon)**
+  - AiCartoon es un generador de dibujos animados con IA que convierte fotos en arte estilo caricatura, retratos estilizados y avatares para personas que buscan resultados rápidos de imagen a caricatura. Puede ayudar a...
+  - *Roles adecuados:* Creador de contenido para redes sociales, Diseñador gráfico, Director de marketing digital, Redactor publicitario +1 más
 
 - **[Aicotravel](https://www.aimyflow.com/es/ai/aicotravel-com)**
   - Aicotravel es un planificador de itinerarios de viaje con IA que ayuda a los usuarios a crear planes de viaje personalizados y explorar destinos, principalmente para viajeros que organizan viajes a una sola ciudad o a...
@@ -1568,6 +1588,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - Aura AI es una plataforma web y móvil que reúne más de 20 modelos de IA para video e imagen, además de herramientas para texto a video, texto a imagen, imagen a video, avatares parlantes, creación de video basada en...
   - *Roles adecuados:* Creador de contenido, Creador de contenido para redes sociales, Diseñador gráfico, Director de marketing digital +1 más
 
+- **[AuraTuner](https://www.aimyflow.com/es/ai/auratuner)**
+  - AuraTuner es una herramienta de IA de nivel profesional para crear imágenes de productos, visuales para fichas de ecommerce, pósteres y vídeos cortos de producto, principalmente para vendedores de ecommerce,...
+  - *Roles adecuados:* Vendedor de comercio electrónico, Creador de contenido, Director de marketing digital, Diseñador gráfico +1 más
+
 - **[Auri](https://www.aimyflow.com/es/ai/auri-ai)**
   - Auri es una aplicación de asistente de IA y teclado para dispositivos Apple que ayuda a los usuarios a escribir, traducir, chatear, grabar, transcribir y convertir notas o memos de voz en texto pulido, principalmente...
   - *Roles adecuados:* Redactor técnico, Redactor publicitario, Creador de contenido, Profesor +1 más
@@ -2003,6 +2027,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - BookAbout es una herramienta de descubrimiento de libros impulsada por IA que ayuda a los lectores a encontrar libros mediante búsquedas muy específicas en un amplio catálogo. Para lectores, bibliotecarios y libreros,...
   - *Roles adecuados:* Creador de contenido, Vendedor de comercio electrónico, Profesor
 
+- **[BookCoversLab](https://www.aimyflow.com/es/ai/bookcoverslab)**
+  - BookCoversLab es una herramienta de publicación para KDP destinada a autores autopublicados que ayuda a crear, corregir, validar y exportar cubiertas de tapa blanda, tapa dura y libros electrónicos en formato PDF listo...
+  - *Roles adecuados:* Vendedor de comercio electrónico, Redactor técnico, Diseñador gráfico, Escritor de ficción +1 más
+
 - **[BookScribi](https://www.aimyflow.com/es/ai/bookscribi-com)**
   - BookScribi es una plataforma de escritura de libros con IA que crea libros de no ficción, colecciones de poesía y libros electrónicos con esquematización, redacción, edición y formato automatizados para autores y...
   - *Roles adecuados:* Escritor de ficción, Creador de contenido, Redactor publicitario, Redactor técnico +1 más
@@ -2429,6 +2457,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[CC](https://www.aimyflow.com/es/ai/labs-google-cc)**
   - CC es un agente experimental de productividad con IA de Google Labs que conecta Gmail, Calendar y Drive para ofrecer un informe diario personalizado por correo electrónico y responder solicitudes por email,...
   - *Roles adecuados:* Director ejecutivo, Director de operaciones, Oficial de gestión de proyectos, Gerente de sucursal +1 más
+
+- **[CCNavX](https://www.aimyflow.com/es/ai/ccnavx)**
+  - CCNavX es un sitio de comparación de API económicas de OpenAI, proxy de la API de Claude y proveedores compatibles con OpenAI, que ayuda a los usuarios a comparar precios, cobertura de modelos, métodos de pago y...
+  - *Roles adecuados:* Ingeniero de software, Gerente de infraestructura TI, Oficial de gestión de proyectos, Ingeniero de datos
 
 - **[Cedalio](https://www.aimyflow.com/es/ai/cedalio-com)**
   - Cedalio es una plataforma de automatización de documentos y datos con IA que ayuda a los equipos de finanzas, especialmente al personal de cuentas por pagar, a capturar, validar, conciliar y pagar facturas, servicios...
@@ -2905,6 +2937,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - CodingFleet Python Code Generator es una herramienta de programación con IA que convierte instrucciones escritas en fragmentos de código Python para desarrolladores y otros usuarios que trabajan con Python. En los...
   - *Roles adecuados:* Ingeniero de software, Gerente de desarrollo de software, Ingeniero de datos, Tutor de programación en línea +1 más
 
+- **[CodingPlan](https://www.aimyflow.com/es/ai/codingplan)**
+  - CodingPlan es una plataforma para comprar planes de codificación con IA de Alibaba, MiniMax, Kimi, GLM y Qwen, que ayuda a los desarrolladores a elegir planes de menor costo con cuotas y capacidades de modelo...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
+
 - **[Codyco](https://www.aimyflow.com/es/ai/codyco-ai-en)**
   - Codyco es una IA telefónica para grupos hoteleros que responde llamadas, gestiona las preguntas frecuentes de los huéspedes y reserva habitaciones de principio a fin con pago y registro en el PMS, principalmente para...
   - *Roles adecuados:* Gerente general de restaurante, Gerente de sucursal, Director de operaciones, Director ejecutivo +1 más
@@ -3275,6 +3311,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - Create Music AI es un generador de música con IA y un conjunto de herramientas de edición que ayuda a los creadores a convertir texto o letras en canciones libres de regalías, eliminar voces, separar stems, editar MIDI...
   - *Roles adecuados:* Creador de contenido, Creador de contenido para redes sociales, Productor de pódcast, Redactor publicitario +1 más
 
+- **[Created by AI Creator](https://www.aimyflow.com/es/ai/createdbyaicreator)**
+  - Creado por AI Creator es una herramienta que ayuda a los usuarios a crear lecturas de tarot, pruebas de compatibilidad MBTI y creadores de tarjetas de felicitación basados en fotos y videos, principalmente para...
+  - *Roles adecuados:* Creador de contenido, Creador de contenido para redes sociales, Diseñador gráfico
+
 - **[Creatify](https://www.aimyflow.com/es/ai/creatify-ai)**
   - Creatify es una plataforma de generación de anuncios con IA que convierte URL de productos en anuncios de imagen y video, ayuda a los equipos a crear, lanzar, probar y optimizar variaciones de anuncios, y está dirigida...
   - *Roles adecuados:* Director de marketing digital, Responsable de ventas e-commerce, Creador de contenido, Diseñador gráfico +1 más
@@ -3358,6 +3398,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[Cutout.Pro](https://www.aimyflow.com/es/ai/cutout-pro)**
   - Cutout.Pro es una plataforma de diseño visual con IA que ayuda a creadores y empresas a editar fotos y videos, quitar fondos, restaurar imágenes y generar contenido visual. En la era de la IA, permite automatizar...
   - *Roles adecuados:* Creador de contenido, Gerentes de tecnología de la información, Ocupaciones informáticas, Comunicadores de medios +7 más
+
+- **[CuttleAI Etsy Seller Assistant](https://www.aimyflow.com/es/ai/reply-cuttleai)**
+  - Asistente de flujo de trabajo para soporte a vendedores de Etsy. Comprende la intención del comprador, indica qué revisar a continuación y crea borradores acordes con la política de la tienda para pedidos, envíos,...
+  - *Roles adecuados:* Vendedor de comercio electrónico, Creador de contenido
 
 - **[CVGist](https://www.aimyflow.com/es/ai/cvgist-com)**
   - CVGist es un generador de currículums impulsado por IA que ayuda a quienes buscan empleo a crear, adaptar e importar currículums profesionales rápidamente a partir de una breve descripción, un currículum existente o un...
@@ -4148,6 +4192,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - EUrouter es una API unificada para acceder y enrutar de forma inteligente solicitudes entre más de 100 modelos de IA, manteniendo los datos en Europa, creada principalmente para desarrolladores y organizaciones...
   - *Roles adecuados:* Ingeniero de software, Gerente de infraestructura TI, Gerente de ciberseguridad, Abogado +1 más
 
+- **[Eva](https://www.aimyflow.com/es/ai/hireeva)**
+  - Eva es una gerente de operaciones de IA para pequeñas empresas que ayuda a propietarios, fundadores y operadores a gestionar facturas, la búsqueda de leads, la prospección, los mensajes de clientes, los borradores de...
+  - *Roles adecuados:* Director ejecutivo, Director de operaciones, Gerente de sucursal, Gerente de ventas de campo +1 más
+
 - **[Evalyy](https://www.aimyflow.com/es/ai/evalyy-com)**
   - Evalyy es una plataforma de generación de cuestionarios y videos impulsada por IA que convierte PDF de capítulos en evaluaciones interactivas y videos educativos para docentes, estudiantes y padres que se preparan para...
   - *Roles adecuados:* Profesor, Tutor de preparación para exámenes, Orientador escolar, Consultor en tecnología educativa +1 más
@@ -4681,6 +4729,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[Frase](https://www.aimyflow.com/es/ai/frase-io)**
   - Frase es una plataforma de SEO y GEO basada en agentes que investiga a la competencia, ayuda a crear y optimizar contenido, y realiza un seguimiento de la visibilidad en Google y herramientas de búsqueda con IA,...
   - *Roles adecuados:* Director de marketing digital, Redactor publicitario, Creador de contenido, Redactor técnico +1 más
+
+- **[Free AI text humanizer that](https://www.aimyflow.com/es/ai/humantone-ai)**
+  - Humanizador de texto con IA gratuito que convierte borradores de ChatGPT, Claude y Gemini en una escritura humana natural. No requiere registro, 6 modos, el significado se mantiene igual.
+  - *Roles adecuados:* Redactor publicitario, Director de marketing digital, Creador de contenido, Redactor técnico +1 más
 
 - **[Free Image Generator](https://www.aimyflow.com/es/ai/freeimagegenerator-app)**
   - Free Image Generator es una herramienta de creación de imágenes con IA que convierte indicaciones de texto en múltiples imágenes de alta resolución con relaciones de aspecto ajustables y opciones sencillas de imagen a...
@@ -5351,6 +5403,9 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - HeraHaven es una aplicación de novia con IA solo para adultos que permite a los usuarios crear compañeras virtuales personalizables para chatear e imágenes generadas por IA, principalmente para personas que buscan...
   - *Roles adecuados:* Creador de contenido, Creador de contenido para redes sociales
 
+- **[Hero Siege Builds](https://www.aimyflow.com/es/ai/herosiegebuilds-org)**
+  - Hero Siege Builds es un planificador no oficial para Hero Siege que ayuda a los jugadores a planificar habilidades, equipo, ranuras, palabras rúnicas, notas y desglose de atributos en un solo lugar. Está dirigido...
+
 - **[HeroUI v3, previously NextUI,](https://www.aimyflow.com/es/ai/heroui-com)**
   - HeroUI v3, anteriormente NextUI, es una biblioteca de interfaz de usuario de código abierto para web y móvil que proporciona componentes y temas personalizables para ayudar a los desarrolladores y equipos de producto a...
   - *Roles adecuados:* Ingeniero de software, Diseñador gráfico, Gerente de desarrollo de software, Redactor técnico
@@ -5430,6 +5485,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - HitPaw es un conjunto de herramientas de IA para mejorar, editar, convertir, comprimir y generar contenido de video, foto y audio, principalmente para creadores, editores, fotógrafos y empresas centradas en los medios....
   - *Roles adecuados:* Creador de contenido, Diseñador gráfico, Vendedor de comercio electrónico, Creador de contenido para redes sociales +1 más
 
+- **[HMG Tools Redactor](https://www.aimyflow.com/es/ai/tools-hoppingmadgames)**
+  - HMG Tools Redactor es una herramienta de redacción basada en navegador que ayuda a los usuarios a detectar y reemplazar texto sensible antes de que salga de su dispositivo, principalmente para personas que gestionan...
+  - *Roles adecuados:* Ingeniero de software, Redactor técnico, Redactor publicitario, Orientador escolar +1 más
+
 - **[Home Design AI](https://www.aimyflow.com/es/ai/home-design-ai)**
   - Home Design AI es una herramienta en línea de diseño del hogar que ayuda a propietarios, inquilinos y usuarios de diseño de interiores a crear y visualizar interiores, exteriores, jardines y distribuciones de espacios...
   - *Roles adecuados:* Diseñador de interiores, Agente inmobiliario, Diseñador gráfico, Creador de contenido
@@ -5484,6 +5543,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[Hullo AI Bio Generator](https://www.aimyflow.com/es/ai/hullo-dating-ai-bio-generator)**
   - Hullo AI Bio Generator es una herramienta gratuita de IA que crea biografías cortas y personalizadas para perfiles de citas en distintos tonos e idiomas para personas que usan aplicaciones de citas como Tinder, Bumble,...
   - *Roles adecuados:* Redactor publicitario, Creador de contenido, Creador de contenido para redes sociales
+
+- **[humaniz.app](https://www.aimyflow.com/es/ai/humaniz)**
+  - humaniz.app es un humanizador de IA gratuito que convierte texto generado por IA en una redacción más natural y humana para cualquiera que cree o edite contenido. Puede ayudar a escritores, especialistas en marketing,...
+  - *Roles adecuados:* Redactor publicitario, Creador de contenido, Redactor técnico, Profesor +1 más
 
 - **[Humanize](https://www.aimyflow.com/es/ai/humanize-sh)**
   - Humanize es un humanizador y detector de texto con IA que reescribe contenido de herramientas como ChatGPT, Gemini y Claude para convertirlo en una redacción con un tono más natural, principalmente para estudiantes,...
@@ -5601,6 +5664,14 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - Image Editor Online es un editor de imágenes con IA basado en navegador que ayuda a los usuarios a editar, recortar, mejorar, eliminar fondos y aplicar cambios de estilo mediante indicaciones de texto, principalmente...
   - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Director de marketing digital, Vendedor de comercio electrónico +1 más
 
+- **[Image Layer Tool](https://www.aimyflow.com/es/ai/imagelayer)**
+  - Usa ImageLayer.net para dividir imágenes de diseño, producto y contenido en capas de imagen transparentes editables para Photoshop, comercio electrónico y flujos de trabajo de contenido.
+  - *Roles adecuados:* Diseñador gráfico, Vendedor de comercio electrónico, Creador de contenido, Diseñador industrial +1 más
+
+- **[Image to Image AI](https://www.aimyflow.com/es/ai/aiimagetoimage)**
+  - Generador gratuito de IA de imagen a imagen: sube cualquier foto, describe tu edición y obtén resultados fotorrealistas en segundos. No requiere registro. El mejor generador de imágenes con IA a partir de imágenes en...
+  - *Roles adecuados:* Vendedor de comercio electrónico, Creador de contenido, Diseñador gráfico, Agente inmobiliario +1 más
+
 - **[Image to Image AI](https://www.aimyflow.com/es/ai/imagetoimage-tech)**
   - Image to Image AI es una plataforma de generación y edición de imágenes con IA que ayuda a los usuarios a transformar fotos, bocetos o diseños existentes mediante indicaciones, principalmente para creadores,...
   - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Director de marketing digital, Responsable de ventas e-commerce +1 más
@@ -5620,6 +5691,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[image2prompt.net](https://www.aimyflow.com/es/ai/image2prompt-net)**
   - image2prompt.net es un generador gratuito de imagen a prompt con IA que analiza imágenes cargadas o URL de imágenes y las convierte en prompts editables para Midjourney, Stable Diffusion, Flux y modelos similares,...
   - *Roles adecuados:* Diseñador gráfico, Creador de contenido, Creador de contenido para redes sociales, Redactor publicitario +1 más
+
+- **[imagecleanupai.com](https://www.aimyflow.com/es/ai/imagecleanupai)**
+  - imagecleanupai.com es un eliminador de texto con IA en línea que ayuda a los usuarios a eliminar texto, subtítulos, marcas de agua y superposiciones de imágenes, manteniendo los fondos naturales. Está pensado...
+  - *Roles adecuados:* Diseñador gráfico, Vendedor de comercio electrónico, Director de marketing digital, Creador de contenido +1 más
 
 - **[Imagen](https://www.aimyflow.com/es/ai/deepmind-google-technologies-imagen-3)**
   - Imagen es el modelo de texto a imagen de Google DeepMind que ayuda a los usuarios a generar imágenes de alta calidad a partir de indicaciones escritas, principalmente para personas que crean conceptos visuales y...
@@ -6077,6 +6152,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[Kagi](https://www.aimyflow.com/es/ai/kagi-com)**
   - Kagi es un buscador de pago sin anuncios que ofrece resultados web de mayor calidad y más control para profesionales, investigadores y usuarios centrados en la privacidad.
   - *Roles adecuados:* Gerentes de tecnología de la información, Gerentes de marketing y ventas, Profesionales del derecho, Científicos físicos +4 más
+
+- **[KaijuConverter OCR](https://www.aimyflow.com/es/ai/kaijuconverter-com-ocr)**
+  - KaijuConverter OCR es una herramienta en línea gratuita que extrae texto de imágenes, fotos, capturas de pantalla y archivos PDF escaneados, pensada principalmente para personas que necesitan convertir contenido de...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[Kairos GPT](https://www.aimyflow.com/es/ai/kairosgpt-com)**
   - Kairos GPT es un asistente financiero con IA creado por Kairos que ayuda a acceder a información financiera y apoyar tareas del área de finanzas.
@@ -7115,6 +7194,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - Marblism ofrece empleados de IA que ayudan a empresas a gestionar correos, crear contenido social, escribir artículos SEO y generar leads, especialmente para equipos pequeños.
   - *Roles adecuados:* Ingeniero de software, Director de marketing digital, Coach de liderazgo corporativo, Gerente de éxito del cliente +22 más
 
+- **[Markdown Viewer Online](https://www.aimyflow.com/es/ai/markdown-viewer-online)**
+  - Markdown Viewer Online es un visor y editor de Markdown basado en el navegador que ayuda a los usuarios a abrir, previsualizar y exportar archivos Markdown, principalmente para redactores, desarrolladores y cualquier...
+  - *Roles adecuados:* Redactor técnico, Ingeniero de software, Consultor en tecnología educativa, Redactor publicitario
+
 - **[MarketAlerts](https://www.aimyflow.com/es/ai/marketalerts-ai)**
   - MarketAlerts es una plataforma de señales del mercado bursátil y alertas de trading impulsada por IA que ayuda a inversores y traders a supervisar listas de seguimiento, detectar patrones técnicos, seguir la actividad...
   - *Roles adecuados:* Gestor de carteras de inversión, Analista financiero, Analista de riesgos, Director financiero +1 más
@@ -7465,6 +7548,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - Miro es un espacio de trabajo colaborativo para innovación que ayuda a los equipos a planificar proyectos, diseñar productos y trabajar visualmente desde la lluvia de ideas hasta la ejecución.
   - *Roles adecuados:* Creador de contenido, Gerentes de tecnología de la información, Gerentes de marketing y ventas, Gerentes de operaciones especializadas +6 más
 
+- **[mirofish.fish](https://www.aimyflow.com/es/ai/mirofish-fish)**
+  - mirofish.fish es un espacio de trabajo de predicción con IA para personas que necesitan explorar futuros posibles a partir de texto, PDF o Markdown cargados y una pregunta. Ayuda a analistas, creadores y equipos de...
+  - *Roles adecuados:* Oficial de gestión de proyectos, Científico de datos, Analista financiero, Director ejecutivo +1 más
+
 - **[MiroMind](https://www.aimyflow.com/es/ai/miromind-ai)**
   - MiroMind es una plataforma de IA y un sistema operativo centrados en el razonamiento que ayudan a las organizaciones a resolver tareas críticas mediante análisis verificables de varios pasos, principalmente para...
   - *Roles adecuados:* Ingeniero de software, Abogado, Analista financiero, Biólogo molecular +1 más
@@ -7591,6 +7678,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[Motion AI](https://www.aimyflow.com/es/ai/motion-ai)**
   - Motion AI es un creador visual de chatbots que ayuda a las empresas a crear, entrenar e implementar chatbots, principalmente para equipos de marketing y de interacción con clientes. A medida que la mensajería impulsada...
   - *Roles adecuados:* Director de marketing digital, Gerente de ventas de campo, Gerente de éxito del cliente
+
+- **[Motion Control AI Video Generator](https://www.aimyflow.com/es/ai/fluxmov)**
+  - Usa Motion Control AI para guiar el movimiento de personajes con un video de referencia. Reduce las suposiciones del prompt, la deriva facial, el movimiento aleatorio y los reintentos fallidos de video con IA.
+  - *Roles adecuados:* Creador de contenido para redes sociales, Productor de pódcast, Cineasta independiente, Diseñador gráfico +1 más
 
 - **[Motives](https://www.aimyflow.com/es/ai/motives-ai)**
   - Motives es una plataforma de investigación cualitativa impulsada por IA que ayuda a los equipos de insights y marketing de marcas de consumo a realizar entrevistas en video en profundidad, probar conceptos y piezas...
@@ -7799,6 +7890,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[Narrative](https://www.aimyflow.com/es/ai/trynarrative-com)**
   - Narrative es una herramienta de aseguramiento de la calidad con IA que ayuda a los equipos a crear, ejecutar y mantener pruebas integrales de producto sin código, principalmente para equipos de software que lanzan...
   - *Roles adecuados:* Gerente de desarrollo de software, Ingeniero de software, Oficial de gestión de proyectos, Ingeniero de datos
+
+- **[NatalChart.AI](https://www.aimyflow.com/es/ai/natalchart-ai)**
+  - NatalChart.AI es una herramienta gratuita de cartas natales con IA para personas que desean una lectura astrológica basada en la carta a partir de sus datos de nacimiento, utilizando cálculos de Swiss Ephemeris y...
+  - *Roles adecuados:* Coach de bienestar, Creador de contenido
 
 - **[NaturalReader](https://www.aimyflow.com/es/ai/naturalreaders-com)**
   - NaturalReader es una plataforma de texto a voz con IA que convierte contenido escrito en audio natural para personas, docentes y empresas en web, móvil y usos comerciales. Ayuda a crear contenido de voz escalable más...
@@ -8591,6 +8686,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - PDF to Video AI es un creador de videos con IA en línea que convierte PDF, enlaces de artículos, texto e indicaciones en videos explicativos con animaciones y narración, principalmente para educadores, profesionales de...
   - *Roles adecuados:* Creador de contenido, Director de marketing digital, Profesor, Coach de liderazgo corporativo +1 más
 
+- **[PDF Translate](https://www.aimyflow.com/es/ai/pdf-translation)**
+  - PDF Translate es un traductor de documentos con IA basado en navegador que permite a los usuarios subir archivos PDF, elegir idiomas de origen y destino, y descargar los archivos traducidos conservando el diseño, las...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
+
 - **[PDF2MP3](https://www.aimyflow.com/es/ai/pdf2mp3-com)**
   - PDF2MP3 es una herramienta en línea de texto a voz con IA que convierte documentos PDF en audio MP3 con voces, idiomas y ajustes de reproducción seleccionables, principalmente para personas que desean escuchar...
   - *Roles adecuados:* Profesor, Profesor universitario, Redactor técnico, Ingeniero de software +1 más
@@ -9093,6 +9192,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - Predis.ai es una herramienta de marketing en redes sociales con IA para crear contenido en video e imagen y analizar rendimiento, ideal para marketers, agencias y marcas en crecimiento. Acorta los ciclos de...
   - *Roles adecuados:* Creador de contenido
 
+- **[Pregnancy AI](https://www.aimyflow.com/es/ai/pregnancyai-ai)**
+  - Pregnancy AI es una herramienta en línea gratuita para crear fotos de maternidad con IA, editar selfies y convertirlos en retratos de embarazo, generar videos cortos de embarazo y predecir el rostro de un bebé,...
+  - *Roles adecuados:* Creador de contenido, Diseñador gráfico, Aficionado a la comida
+
 - **[PrepAI](https://www.aimyflow.com/es/ai/prepai-in-us)**
   - PrepAI es una plataforma de evaluación asistida por IA que ayuda a educadores e instituciones académicas a crear cuestionarios y exámenes, calificar trabajos y hacer un seguimiento del rendimiento estudiantil de forma...
   - *Roles adecuados:* Profesor universitario, Consultor en tecnología educativa, Orientador escolar, Profesor
@@ -9151,6 +9254,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[Procys](https://www.aimyflow.com/es/ai/procys-com)**
   - Procys es una plataforma de procesamiento documental con IA que extrae datos de facturas, órdenes de compra, recibos, documentos de identidad y otros documentos empresariales, principalmente para equipos contables,...
   - *Roles adecuados:* Contador público certificado, Analista financiero, Planificador de operaciones logísticas, Facturador médico +1 más
+
+- **[Product Creative Generator](https://www.aimyflow.com/es/ai/productcreativegenerator-com)**
+  - Product Creative Generator es una herramienta de IA que convierte una foto de un producto en conjuntos de imágenes para ecommerce, listings, páginas de producto, anuncios y pruebas sociales, principalmente para...
+  - *Roles adecuados:* Vendedor de comercio electrónico, Diseñador gráfico, Creador de contenido, Director de marketing digital
 
 - **[ProductDescriber](https://www.aimyflow.com/es/ai/productdescriber-com)**
   - ProductDescriber es una herramienta de escritura con IA para generar descripciones de productos rápidamente, ideal para comercios ecommerce, gestores de catálogo y marketers digitales. Agiliza la redacción repetitiva...
@@ -9663,6 +9770,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - RemodelerIQ es un analizador de presupuestos impulsado por IA que ayuda a los propietarios de viviendas a revisar estimaciones de renovación de contratistas para detectar precios inflados, costos ocultos, partidas de...
   - *Roles adecuados:* Agente inmobiliario
 
+- **[Remova](https://www.aimyflow.com/es/ai/remova)**
+  - Remova es una plataforma empresarial de gobernanza de IA para equipos que permite a las empresas usar ChatGPT, Claude, Gemini y más de 300 modelos con controles de políticas, enmascaramiento de datos sensibles, acceso...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
+
 - **[Remove Text from Video](https://www.aimyflow.com/es/ai/removetextfromvideo-com)**
   - Remove Text from Video es una herramienta de limpieza de video con IA que detecta y elimina subtítulos, leyendas, marcas de fecha y otras superposiciones de texto, mientras preserva la resolución y la calidad...
   - *Roles adecuados:* Creador de contenido para redes sociales, Creador de contenido, Director de marketing digital, Redactor publicitario +1 más
@@ -9678,6 +9789,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[RemoveBGVideo](https://www.aimyflow.com/es/ai/removebgvideo-com)**
   - RemoveBGVideo es un eliminador de fondos de video en línea impulsado por IA que ayuda a los usuarios a eliminar y reemplazar automáticamente fondos de video sin pantalla verde, principalmente para creadores de...
   - *Roles adecuados:* Creador de contenido, Creador de contenido para redes sociales, Director de marketing digital, Diseñador gráfico +1 más
+
+- **[Remover.video](https://www.aimyflow.com/es/ai/remover)**
+  - Remover.video es un editor en línea impulsado por IA que elimina texto, marcas de agua, logotipos, subtítulos y pies de foto de los videos para creadores y equipos que reutilizan contenido de redes sociales. Puede...
+  - *Roles adecuados:* Creador de contenido para redes sociales, Director de marketing digital, Redactor publicitario, Creador de contenido
 
 - **[RemoverMarca](https://www.aimyflow.com/es/ai/removermarca-com-en)**
   - RemoverMarca es un eliminador de marcas de agua con IA que ayuda a los usuarios a eliminar automáticamente marcas de agua de fotos en línea en calidad 4K, con procesamiento por lotes y compatibilidad con navegadores...
@@ -9945,6 +10060,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - Rolemantic AI es una plataforma de chatbot de IA para usuarios adultos que permite chatear con personajes de IA NSFW, crear sus propios personajes, generar arte con IA y participar en juegos de rol sin censura y...
   - *Roles adecuados:* Creador de contenido, Creador de contenido para redes sociales, Diseñador gráfico, Redactor publicitario
 
+- **[RoleTTS](https://www.aimyflow.com/es/ai/roletts)**
+  - RoleTTS es un generador de voz con IA para texto a voz de personajes, diseño de voces, clonación de voz, doblaje multilingüe y flujos de trabajo de avatares hablantes, principalmente para creadores que desarrollan...
+  - *Roles adecuados:* Productor de pódcast, Cineasta independiente, Actor de voz, Creador de contenido para redes sociales +1 más
+
 - **[Rollstack](https://www.aimyflow.com/es/ai/rollstack-com)**
   - Rollstack es una herramienta de automatización de informes que conecta datos de BI y analítica con presentaciones, documentos y correos electrónicos, ayudando a los equipos de datos, finanzas, operaciones, éxito del...
   - *Roles adecuados:* Analista financiero, Oficial de gestión de proyectos, Director de marketing digital, Ingeniero de software +1 más
@@ -10096,9 +10215,17 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - scalerX.ai es una plataforma RAG para crear agentes de IA personalizados en Telegram, que ayuda a los usuarios a entrenar bots con sus propios archivos y contenido para gestionar soporte, ventas, aprendizaje,...
   - *Roles adecuados:* Gerente de desarrollo de software, Gerente de éxito del cliente, Gerente de ventas de campo, Consultor en tecnología educativa
 
+- **[ScamSpot](https://www.aimyflow.com/es/ai/scamspot)**
+  - Pega un mensaje, correo electrónico, texto de WhatsApp o URL sospechoso y obtén una revisión gratuita del riesgo de estafa con pasos claros a seguir.
+  - *Roles adecuados:* Analista de ciberseguridad, Gerente de ciberseguridad, Ingeniero de software
+
 - **[Scanbase](https://www.aimyflow.com/es/ai/scanbase-com)**
   - Scanbase es una empresa de diagnósticos de salud digital que utiliza visión por computadora para convertir fotos de pruebas diagnósticas rápidas en resultados positivos o negativos, principalmente para organizaciones...
   - *Roles adecuados:* Administrador sanitario, Técnico de laboratorio médico, Gerente de infraestructura TI, Ingeniero de datos +1 más
+
+- **[ScanRead.ai](https://www.aimyflow.com/es/ai/scanread)**
+  - ScanRead.ai es una herramienta OCR gratuita que extrae texto editable de imágenes, capturas de pantalla, PDFs escaneados y documentos para cualquiera que necesite convertir texto rápidamente. Puede ayudar a los equipos...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[ScanRelief](https://www.aimyflow.com/es/ai/scanrelief-com)**
   - ScanRelief es una herramienta de escritorio para Windows y Mac que utiliza OpenAI para procesar recibos y facturas, renombrar archivos según su contenido y generar informes de Excel, principalmente para personas que...
@@ -10418,6 +10545,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[SigmanticAI](https://www.aimyflow.com/es/ai/sigmanticai-com)**
   - SigmanticAI es una herramienta de automatización para la verificación de hardware con IA que genera bancos de pruebas UVM, estímulos restringidos, cobertura funcional, aserciones y modelos de registros para ingenieros...
   - *Roles adecuados:* Ingeniero eléctrico, Ingeniero de software, Gerente de desarrollo de software, Oficial de gestión de proyectos +1 más
+
+- **[Signal Desk](https://www.aimyflow.com/es/ai/signal-desk-study-tools-netlify)**
+  - Signal Desk es un generador gratuito de prompts de estudio con IA, sin inicio de sesión, que ayuda a los estudiantes a convertir apuntes de clase, lecturas, temas de examen y listas de fuentes en prompts para...
+  - *Roles adecuados:* Tutor de preparación para exámenes, Consultor en tecnología educativa, Tutor de programación en línea, Profesor
 
 - **[Signal87 AI](https://www.aimyflow.com/es/ai/signal87-ai)**
   - Signal87 AI es una plataforma empresarial de inteligencia documental que ayuda a los equipos legales, de cumplimiento, financieros y otros equipos regulados a extraer entidades, fechas, importes e indicadores de riesgo...
@@ -11001,6 +11132,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - StockNews.AI Agent es una herramienta de noticias del mercado impulsada por IA que convierte los titulares financieros en señales de acciones, alertas y análisis para ayudar a los inversionistas a seguir...
   - *Roles adecuados:* Analista financiero, Gestor de carteras de inversión, Analista de riesgos, Director financiero +1 más
 
+- **[StopScroll](https://www.aimyflow.com/es/ai/stopscroll)**
+  - StopScroll es una herramienta de IA para crear y seleccionar miniaturas que genera múltiples opciones de miniaturas, compara sus fortalezas y debilidades, y recomienda la mejor portada antes de publicar, principalmente...
+  - *Roles adecuados:* Creador de contenido para redes sociales, Productor de pódcast, Redactor publicitario, Creador de contenido
+
 - **[Stormy](https://www.aimyflow.com/es/ai/stormy-ai)**
   - Stormy es un agente de IA para marketing de influencers que ayuda a equipos de marketing y marcas a encontrar creadores, automatizar el contacto y las negociaciones, gestionar campañas, hacer seguimiento del...
   - *Roles adecuados:* Director de marketing digital, Creador de contenido, Responsable de ventas e-commerce, Director ejecutivo
@@ -11534,6 +11669,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - TermOver AI es una extensión de Chrome que utiliza IA para analizar Términos de servicio y políticas de privacidad, resumirlos en un lenguaje claro y señalar problemas como la venta de datos, el seguimiento o los...
   - *Roles adecuados:* Analista de riesgos, Abogado, Analista de ciberseguridad, Otros roles de ventas
 
+- **[TermsHuman](https://www.aimyflow.com/es/ai/termshuman)**
+  - TermsHuman es un analizador de contratos en lenguaje claro que resume términos de servicio, políticas y acuerdos, señala riesgos críticos y muestra compromisos clave en inglés o español para personas que necesitan...
+  - *Roles adecuados:* Abogado, Director ejecutivo, Director financiero, Oficial de gestión de proyectos
+
 - **[Termzy AI](https://www.aimyflow.com/es/ai/termzyai-com)**
   - Termzy AI es una extensión del navegador Chrome que utiliza IA para analizar políticas de privacidad y términos y condiciones, ayudando a las personas a comprender rápidamente la letra pequeña legal mientras navegan en...
   - *Roles adecuados:* Abogado, Analista de ciberseguridad, Analista de riesgos, Redactor técnico
@@ -11613,6 +11752,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - Prompt Challenge es una plataforma de práctica que ayuda a los usuarios a mejorar la creación de prompts para IA describiendo imágenes y sitios web, comparando los resultados generados por IA con referencias y...
   - *Roles adecuados:* Diseñador gráfico, Ingeniero de software, Consultor en tecnología educativa, Creador de contenido +1 más
 
+- **[The Square Face Generator](https://www.aimyflow.com/es/ai/squareface-generator)**
+  - El Generador de Caras Cuadradas es una herramienta en línea gratuita que ayuda a los usuarios a crear iconos y avatares de caras cuadradas personalizables, principalmente para redes sociales y perfiles en línea. Puede...
+  - *Roles adecuados:* Creador de contenido para redes sociales, Diseñador gráfico, Director de marketing digital
+
 - **[Thea](https://www.aimyflow.com/es/ai/theastudy-com-home)**
   - Thea es una plataforma de estudio con IA que transforma materiales de cursos como apuntes, PDF, libros de texto, imágenes y videos de clases en preguntas de práctica, tarjetas didácticas, guías de estudio y exámenes...
   - *Roles adecuados:* Profesor, Profesor universitario, Consultor en tecnología educativa, Tutor de preparación para exámenes +1 más
@@ -11674,6 +11817,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - Esta página es un artículo de noticias que presenta ocho tendencias de IA para 2025, ayudando a los profesionales de la tecnología y a los responsables de la toma de decisiones empresariales a comprender avances como...
   - *Roles adecuados:* Gerente de desarrollo de software, Director ejecutivo, Gerente de ciberseguridad, Oficial de gestión de proyectos +1 más
 
+- **[This tool](https://www.aimyflow.com/es/ai/airemovetextfromimage)**
+  - Esta herramienta ayuda a los usuarios a eliminar texto de imágenes en línea con IA, principalmente para diseñadores y editores. Mejora su trabajo automatizando la eliminación de texto.
+  - *Roles adecuados:* Diseñador gráfico, Director de marketing digital, Responsable de ventas e-commerce, Ingeniero de software +1 más
+
 - **[This website](https://www.aimyflow.com/es/ai/askviable-com)**
   - Este sitio web es una guía informativa y un directorio comparativo de casinos sin licencia sueca, que ayuda a los jugadores suecos a revisar casinos en línea offshore, entender los impuestos y los métodos de pago, y...
   - *Roles adecuados:* Redactor publicitario, Creador de contenido, Analista financiero, Abogado
@@ -11689,6 +11836,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[Thorntale](https://www.aimyflow.com/es/ai/thorntale-com)**
   - Thorntale es un creador de presentaciones nativo de IA que ayuda a los usuarios a convertir ideas en presentaciones listas para clientes, con diseños automáticos, temas, corrección de texto, gráficos y edición basada...
   - *Roles adecuados:* Director de marketing digital, Gerente de ventas de campo, Director ejecutivo, Redactor publicitario +1 más
+
+- **[Thragg in Invincible](https://www.aimyflow.com/es/ai/thragg)**
+  - Explora a Thragg en Invincible con una guía centrada en quién es Thragg, su papel en el Imperio Viltrumita, cuán fuerte es y por qué Thragg vs. Battle Beast es el enfrentamiento que los lectores buscan primero.
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[Thread](https://www.aimyflow.com/es/ai/usethread-io)**
   - Thread es un software empresarial para operaciones, automatización y pagos que ayuda a los equipos a enrutar incidentes, gestionar un catálogo de servicios y mejorar la comunicación en torno a los entornos de...
@@ -12334,6 +12485,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - Veo 3.1 AI Video Generator es una herramienta de texto e imagen a video que crea videos cinematográficos rápidamente, pensada para marketers, creadores y equipos creativos.
   - *Roles adecuados:* Director de marketing digital, Responsable de ventas e-commerce, Consultor en tecnología educativa, Creador de contenido +4 más
 
+- **[Veo 4 AI Video Generator Online](https://www.aimyflow.com/es/ai/veo4free)**
+  - Veo 4 AI Video Generator Online es una herramienta basada en navegador para crear clips de texto a video e imagen a video, dirigida principalmente a creadores, especialistas en marketing, cineastas, educadores y...
+  - *Roles adecuados:* Creador de contenido para redes sociales, Productor de pódcast, Cineasta independiente, Director de marketing digital +1 más
+
 - **[Vera Health](https://www.aimyflow.com/es/ai/vera-health-ai)**
   - Vera Health es un motor de búsqueda de apoyo a la decisión clínica basado en IA que ayuda a clínicos con licencia y en formación a encontrar respuestas concisas y basadas en la evidencia, diagnósticos diferenciales,...
   - *Roles adecuados:* Médico de familia, Cardiólogo, Pediatra, Administrador sanitario +1 más
@@ -12658,6 +12813,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
   - Vizard.ai es una herramienta de edición y recorte de video con IA que convierte videos de formato largo en clips cortos listos para redes sociales, subtítulos y formatos redimensionados para creadores, podcasters,...
   - *Roles adecuados:* Creador de contenido, Creador de contenido para redes sociales, Director de marketing digital, Productor de pódcast +1 más
 
+- **[Vizcept](https://www.aimyflow.com/es/ai/vizcept)**
+  - Vizcept es un generador de diagramas conceptuales con IA que convierte descripciones en inglés sencillo en diagramas estructurados para estudiantes, investigadores y educadores. Puede ayudar a investigadores,...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
+
 - **[VMEG AI Video Translator](https://www.aimyflow.com/es/ai/vmeg-ai-tools-video-translator)**
   - VMEG AI Video Translator es una herramienta en línea de traducción y doblaje de videos que ayuda a los usuarios a localizar videos en más de 170 idiomas con voces de IA, clonación de voz, sincronización labial y...
   - *Roles adecuados:* Creador de contenido, Director de marketing digital, Creador de contenido para redes sociales, Redactor técnico +1 más
@@ -12677,6 +12836,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[Vocova](https://www.aimyflow.com/es/ai/vocova-app)**
   - Vocova es una herramienta de transcripción con IA que convierte audio y video en texto en más de 100 idiomas, con etiquetas de hablante, marcas de tiempo, traducción, resúmenes y múltiples formatos de exportación,...
   - *Roles adecuados:* Productor de pódcast, Creador de contenido, Redactor técnico, Orientador escolar +1 más
+
+- **[Voice Cleaner](https://www.aimyflow.com/es/ai/voicecleaner-org)**
+  - Usa VoiceCleaner como limpiador de voz en línea para eliminar el ruido de fondo del audio, limpiar grabaciones de voz y previsualizar audio de podcasts o reuniones más claro.
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[Voice.ai](https://www.aimyflow.com/es/ai/voice-ai)**
   - Voice.ai es una plataforma de voz con IA que ayuda a desarrolladores, empresas y creadores a crear agentes de voz, generar texto a voz, clonar voces y cambiar voces en tiempo real con API, SDK y herramientas en línea....
@@ -12733,6 +12896,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[VoooAI](https://www.aimyflow.com/es/ai/voooai-com)**
   - VoooAI es la primera plataforma multimedia NL2Workflow del mundo con lienzo visual de nodos. La IA genera automáticamente los flujos de trabajo: selección de nodos, conexiones y prompts completados automáticamente....
   - *Roles adecuados:* Creador de contenido, Director de marketing digital, Diseñador gráfico, Redactor publicitario +1 más
+
+- **[Voqusa](https://www.aimyflow.com/es/ai/voqusa-com)**
+  - Voqusa es un generador gratuito de transcripciones de video con IA que convierte videos de TikTok, YouTube, Instagram, Facebook, X, LinkedIn y Pinterest en texto limpio, principalmente para creadores, especialistas en...
+  - *Roles adecuados:* Creador de contenido para redes sociales, Director de marketing digital, Creador de contenido, Productor de pódcast +1 más
 
 - **[Vora](https://www.aimyflow.com/es/ai/fineshare-net-ai-video)**
   - Vora es un generador de video con IA que convierte indicaciones de texto, imágenes y videos cortos en videos sin marca de agua, prompts y resultados mejorados para creadores de contenido, especialistas en marketing y...
@@ -12952,6 +13119,10 @@ Asegura la calidad del código nuevo 10 veces más rápido con la única platafo
 - **[WisGate](https://www.aimyflow.com/es/ai/wisdom-gate-juheapi-com)**
   - WisGate es una puerta de enlace de API de IA unificada y un estudio basado en navegador que ayuda a desarrolladores, creadores, equipos y empresas a acceder y utilizar múltiples modelos de LLM, imagen, video y...
   - *Roles adecuados:* Ingeniero de software, Gerente de desarrollo de software, Creador de contenido, Director de marketing digital +1 más
+
+- **[WisGate](https://www.aimyflow.com/es/ai/wisgate)**
+  - WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores, creadores y equipos para acceder y comparar modelos de chat, imagen, video y generación de código a través de una sola interfaz. Puede...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[Wisio](https://www.aimyflow.com/es/ai/wisio-app)**
   - Wisio es un asistente de redacción científica impulsado por IA que ayuda a investigadores y científicos a redactar, mejorar y dar formato a artículos con sugerencias de escritura, búsqueda de referencias, corrección...

@@ -22,9 +22,9 @@ lang: "en"
 </div>
 
 <div class="stats-grid">
-<div class="stat-card"><strong>3293</strong><span>Tools exported</span></div>
+<div class="stat-card"><strong>3336</strong><span>Tools exported</span></div>
 <div class="stat-card"><strong>221</strong><span>Roles covered</span></div>
-<div class="stat-card"><strong>2026-05-01</strong><span>Generated at</span></div>
+<div class="stat-card"><strong>2026-05-23</strong><span>Generated at</span></div>
 </div>
 
 ## Start Here
@@ -46,49 +46,9 @@ lang: "en"
 
 <div class="tool-card" markdown="1">
 
-### [FapJOI](https://www.aimyflow.com/en/ai/fapjoi-com)
+### [Voice Cleaner](https://www.aimyflow.com/en/ai/voicecleaner-org)
 
-FapJOI is an adult AI image and video site that lets users browse and generate realistic explicit porn content, mainly for adults seeking AI-generated sexual entertainment. For content moderators and trust-and-safety teams, its AI-generated format can also make classification and filtering workflows more important.
-
-**Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Gochu](https://www.aimyflow.com/en/ai/gochu-app)
-
-Gochu is an uncensored AI chat and image generation platform for adults, helping users create AI characters, chat freely, and generate visuals without signing up. It can help content creators and conversational product teams speed up character design, prompt testing, and iterative AI interaction workflows.
-
-**Suitable roles:** Content Creator, Copywriter, Social Media Content Creator
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [AI Rapper](https://www.aimyflow.com/en/ai/rapper-im)
-
-AI Rapper is an AI rap generator for creating rap lyrics, vocals, and full songs from topics, stories, articles, and trends, mainly for rappers and hip-hop enthusiasts. It can speed up lyricist, hook-writing, and producer workflows by generating faster drafts and delivery options for freestyle and track development.
-
-**Suitable roles:** Content Creator, Podcast Producer, Copywriter, Music Lover, Social Media Content Creator
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [MaxArt.ai](https://www.aimyflow.com/en/ai/maxart-ai)
-
-MaxArt.ai is an AI video effects tool that helps users transform footage with cinematic styles, animations, and visual enhancements using text prompts or reference images, mainly for creators and video editors. It can speed up production work by helping marketing and content teams generate polished visuals in seconds without technical editing skills.
-
-**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator, Graphic Designer
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [PredictMyBaby](https://www.aimyflow.com/en/ai/predictmybaby-com)
-
-PredictMyBaby is a photo-based AI baby generator that helps parents preview what their child could look like by uploading photos of both parents. For family planners and content teams, it speeds up visual concepting with quick, realistic baby-face variations across ages.
+Use VoiceCleaner as an online voice cleaner to remove background noise from audio, clean voice recordings, and preview clearer podcast or meeting audio.
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
 
@@ -96,9 +56,29 @@ PredictMyBaby is a photo-based AI baby generator that helps parents preview what
 
 <div class="tool-card" markdown="1">
 
-### [Speakoala](https://www.aimyflow.com/en/ai/speakoala-com)
+### [Image Layer Tool](https://www.aimyflow.com/en/ai/imagelayer)
 
-Speakoala is a browser text-to-speech extension that helps users listen to web pages, emails, PDFs, Word documents, and other local files, mainly for people reading online content. It can support accessibility and reduce visual fatigue for professionals who need to review text hands-free while working or commuting.
+Use ImageLayer.net to split design, product, and content images into editable transparent image layers for Photoshop, e-commerce, and content workflows.
+
+**Suitable roles:** Graphic Designer, Ecommerce Seller, Content Creator, Industrial Designer, Software Engineer
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [StopScroll](https://www.aimyflow.com/en/ai/stopscroll)
+
+StopScroll is an AI thumbnail maker and picker that generates multiple thumbnail options, compares their strengths and weaknesses, and recommends the best cover before publishing, mainly for creators and faceless channels. It can help video teams and content creators make faster publishing decisions by reviewing curiosity, readability, contrast, and click potential before upload.
+
+**Suitable roles:** Social Media Content Creator, Podcast Producer, Copywriter, Content Creator
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Remova](https://www.aimyflow.com/en/ai/remova)
+
+Remova is an enterprise AI governance platform for teams that lets companies use ChatGPT, Claude, Gemini, and 300+ models with policy controls, sensitive-data masking, role-based access, audit visibility, and budget management. It helps IT, security, and operations teams reduce data leaks and AI misuse while keeping model access and spend under control.
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
 
@@ -106,9 +86,19 @@ Speakoala is a browser text-to-speech extension that helps users listen to web p
 
 <div class="tool-card" markdown="1">
 
-### [TabliSync](https://www.aimyflow.com/en/ai/tablisync-com)
+### [BookCoversLab](https://www.aimyflow.com/en/ai/bookcoverslab)
 
-TabliSync is an AI data assistant that converts images and PDFs into editable Excel, CSV, Google Sheets, Airtable, or Notion tables, mainly for people handling scanned documents and structured data. It can help operations, finance, and administrative teams reduce manual entry and turn reports, receipts, and forms into usable spreadsheets faster.
+BookCoversLab is a KDP publishing toolkit for self-publishers that helps create, fix, validate, and export paperback, hardcover, and eBook covers in print-ready PDF format. It can help authors, indie publishers, and cover designers reduce upload rework by catching trim, bleed, spine, and compliance issues earlier in the workflow.
+
+**Suitable roles:** Ecommerce Seller, Technical Writer, Graphic Designer, Fiction Writer, Content Creator
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [CodingPlan](https://www.aimyflow.com/en/ai/codingplan)
+
+CodingPlan is a platform for buying AI coding plans from Alibaba, MiniMax, Kimi, GLM, and Qwen, helping developers choose lower-cost plans with similar quota and model capability. For coders and engineering teams, it can reduce AI spend while keeping access to tools suited for coding workflows and agent-based development.
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
 
@@ -116,9 +106,79 @@ TabliSync is an AI data assistant that converts images and PDFs into editable Ex
 
 <div class="tool-card" markdown="1">
 
-### [MyColoring.AI](https://www.aimyflow.com/en/ai/mycoloring-ai)
+### [Eva](https://www.aimyflow.com/en/ai/hireeva)
 
-MyColoring.AI is an AI coloring page generator that turns photos or text prompts into printable coloring pages, mainly for parents, teachers, crafters, pet lovers, event planners, and content creators. It can speed up creation of clean, print-ready outlines for lesson materials, party activities, DIY projects, and publishable coloring content.
+Eva is an AI operations manager for small businesses that helps owners, founders, and operators handle invoices, lead sourcing, outreach, client messages, site drafts, and workflow building. It can help operations, sales, and admin teams reduce manual busywork and keep records, follow-ups, and handoffs organized across everyday business tools.
+
+**Suitable roles:** CEO, COO, Branch Office Manager, Field Sales Manager, Digital Marketing Director
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Motion Control AI Video Generator](https://www.aimyflow.com/en/ai/fluxmov)
+
+Use Motion Control AI to guide character movement with a reference video. Reduce prompt guesswork, face drift, random motion, and failed AI video retries.
+
+**Suitable roles:** Social Media Content Creator, Podcast Producer, Independent Filmmaker, Graphic Designer, Copywriter
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Signal Desk](https://www.aimyflow.com/en/ai/signal-desk-study-tools-netlify)
+
+Signal Desk is a free no-login AI study prompt generator that helps students turn lecture notes, readings, exam topics, and source lists into prompts for active recall, quizzes, flashcards, and study plans. It can help students and study-focused educators create faster review materials and structured practice without giving up the thinking process.
+
+**Suitable roles:** Test Prep Tutor, Education Technology Consultant, Online Coding Tutor, Teacher
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [AuraTuner](https://www.aimyflow.com/en/ai/auratuner)
+
+AuraTuner is a studio-grade AI tool for creating product images, ecommerce listing visuals, posters, and short product videos, mainly for ecommerce sellers, marketers, and content creators. It can help product and creative teams speed up image editing, background replacement, and video production with tested workflows and model presets.
+
+**Suitable roles:** Ecommerce Seller, Content Creator, Digital Marketing Director, Graphic Designer, Social Media Content Creator
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Image to Image AI](https://www.aimyflow.com/en/ai/aiimagetoimage)
+
+Free image to image AI generator — upload any photo, describe your edit, and get photorealistic results in seconds. No signup needed. The best AI image generator from image online.
+
+**Suitable roles:** Ecommerce Seller, Content Creator, Graphic Designer, Real Estate Agent, Fashion Designer
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [RoleTTS](https://www.aimyflow.com/en/ai/roletts)
+
+RoleTTS is an AI voice generator for character text to speech, voice design, voice cloning, multilingual dubbing, and talking avatar workflows, mainly for creators building story, game, and video content. It helps voice actors, producers, and game teams direct expressive performance line by line and keep character voices consistent across audio and avatar output.
+
+**Suitable roles:** Podcast Producer, Independent Filmmaker, Voice Actor, Social Media Content Creator, Content Creator
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [ScamSpot](https://www.aimyflow.com/en/ai/scamspot)
+
+Paste a suspicious message, email, WhatsApp text, or URL and get a free scam risk check with clear next steps.
+
+**Suitable roles:** Cybersecurity Analyst, Cybersecurity Manager, Software Engineer
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Vizcept](https://www.aimyflow.com/en/ai/vizcept)
+
+Vizcept is an AI concept diagram generator that turns plain-English descriptions into structured diagrams for students, researchers, and educators. It can help researchers, instructors, and students save time on publication figures, lesson visuals, and assignment diagrams by producing clear, editable outputs fast.
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
 
@@ -126,9 +186,29 @@ MyColoring.AI is an AI coloring page generator that turns photos or text prompts
 
 <div class="tool-card" markdown="1">
 
-### [Road To Vostok Map — Area 05, POIs & Regional Overview](https://www.aimyflow.com/en/ai/roadtovostok-org-map)
+### [AiCartoon](https://www.aimyflow.com/en/ai/aicartoon)
 
-Road To Vostok Interactive map: Area 05, Border Zone, and Vostok points of interest, searchable index, and regional overview. Use alongside the in-game map and confirm coordinates in-client.
+AiCartoon is an AI cartoon generator that turns photos into cartoon art, stylized portraits, and avatars for people who want quick image-to-cartoon results. It can help social media creators, designers, and marketers produce polished visual assets faster with style controls, no-watermark exports, and commercial-use options.
+
+**Suitable roles:** Social Media Content Creator, Graphic Designer, Digital Marketing Director, Copywriter, Content Creator
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [CCNavX](https://www.aimyflow.com/en/ai/ccnavx)
+
+CCNavX is a comparison site for cheap OpenAI API, Claude API proxy, and OpenAI-compatible providers, helping users compare pricing, model coverage, payment methods, and invoice support. It is mainly for developers and teams choosing API proxies, where clear cost and compatibility checks can improve integration planning and reimbursement workflows.
+
+**Suitable roles:** Software Engineer, IT Infrastructure Manager, Project Management Officer, Data Engineer
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [ScanRead.ai](https://www.aimyflow.com/en/ai/scanread)
+
+ScanRead.ai is a free OCR tool that extracts editable text from images, screenshots, scanned PDFs, and documents for anyone who needs quick text conversion. It can help operations, finance, and admin teams turn receipts, contracts, notes, and reports into searchable text faster.
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
 
@@ -136,39 +216,39 @@ Road To Vostok Interactive map: Area 05, Border Zone, and Vostok points of inter
 
 <div class="tool-card" markdown="1">
 
-### [Tarotool](https://www.aimyflow.com/en/ai/tarotool-com)
+### [TermsHuman](https://www.aimyflow.com/en/ai/termshuman)
 
-Tarotool is a free AI-powered tarot reading website that helps users ask questions about love, career, money, and life, mainly for people seeking instant online guidance. For readers, coaches, and content creators, its fast personalized interpretations can help turn broad questions into clearer reflections and next steps.
+TermsHuman is a plain-English contract analyzer that summarizes terms of service, policies, and agreements, flags red risks, and shows key commitments in English or Spanish for people who need to review legal text quickly. It can help legal, compliance, procurement, and operations teams speed clause review and spot one-sided terms before approval.
 
-**Suitable roles:** Wellness Coach, Content Creator, Copywriter
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Veo 3](https://www.aimyflow.com/en/ai/veo31video-com)
-
-Veo 3 is an AI video generator that creates cinematic videos from text or images with synchronized audio, realistic physics, and multi-shot control, mainly for creators and teams making video content. For video producers, marketers, and content teams, it can speed up early-stage scene creation and help maintain visual consistency across complex sequences.
-
-**Suitable roles:** Social Media Content Creator, Podcast Producer, Content Creator, Digital Marketing Director, Independent Filmmaker
+**Suitable roles:** Lawyer, CEO, CFO, Project Management Officer
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [GPT Image2](https://www.aimyflow.com/en/ai/gptimage-2-co)
+### [Veo 4 AI Video Generator Online](https://www.aimyflow.com/en/ai/veo4free)
 
-GPT Image2 is OpenAI’s next-gen AI image generator for text to image and image to image creation, aimed mainly at artists, marketers, designers, and other content creators. Its native-level text rendering, photorealism, and pixel-perfect consistency can help creative teams produce posters, product mockups, and visual assets faster with less manual cleanup.
+Veo 4 AI Video Generator Online is a browser-based tool for creating text-to-video and image-to-video clips, mainly for creators, marketers, filmmakers, educators, and content teams. Its native audio, 4K output, and character consistency can help video producers and brand teams speed up concepting, pre-visualization, and social content delivery.
 
-**Suitable roles:** Graphic Designer, Industrial Designer, Social Media Content Creator, Copywriter, Content Creator
+**Suitable roles:** Social Media Content Creator, Podcast Producer, Independent Filmmaker, Digital Marketing Director, Content Creator
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [Free Online AI Baby Generator](https://www.aimyflow.com/en/ai/ai-babygenerator-com)
+### [AI Clean Voice](https://www.aimyflow.com/en/ai/voicecleaner)
 
-Discover our Free Online AI Baby Generator, predict your future baby's look in seconds. Upload photos, get high - res, watermark - free images. Privacy - protected, 24/7 service. Try now!
+AI Clean Voice is an online AI voice cleaner that removes background noise, wind, and echo to enhance speech in uploaded audio, mainly for podcasters, video creators, educators, and production teams. It can help audio editors and content teams speed up cleanup work while preserving natural vocal clarity for faster publishing.
+
+**Suitable roles:** Podcast Producer, Social Media Content Creator, Education Technology Consultant, Technical Writer, Copywriter
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [AI Coloring Page Generator](https://www.aimyflow.com/en/ai/aicoloringpagegenerator)
+
+AI Coloring Page Generator is a tool that turns kid-friendly ideas into printable black-and-white coloring pages, with difficulty levels for different ages, mainly for parents and teachers. It can help educators and caregivers quickly create age-appropriate, custom printables for lessons, classroom activities, or home play.
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
 
@@ -176,39 +256,19 @@ Discover our Free Online AI Baby Generator, predict your future baby's look in s
 
 <div class="tool-card" markdown="1">
 
-### [HubVanta AI](https://www.aimyflow.com/en/ai/hubvanta-com)
+### [HMG Tools Redactor](https://www.aimyflow.com/en/ai/tools-hoppingmadgames)
 
-Free all-in-one platform for AI image, video, audio & text creation. Access Midjourney, Flux AI, Stable Diffusion, Kling AI and more in one place.
+HMG Tools Redactor is a browser-based redaction tool that helps users catch and replace sensitive text before it leaves their device, mainly for people handling prompts, support logs, invoices, school notes, and client drafts. It can help support teams, writers, and admins reduce accidental exposure when preparing text for AI workflows or sharing documents.
 
-**Suitable roles:** Content Creator, Social Media Content Creator, Graphic Designer, Digital Marketing Director
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Seedance 2.0 AI Video Generator](https://www.aimyflow.com/en/ai/seedances-app)
-
-Seedance 2.0 delivers breakthrough AI video generation with 2K resolution and native audio support. Create cinematic videos from text or images with advanced multimodal input. Seedance 2 transforms your creative vision into reality.
-
-**Suitable roles:** Content Creator, Graphic Designer, Independent Filmmaker
+**Suitable roles:** Software Engineer, Technical Writer, Copywriter, School Counselor, Education Technology Consultant
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [Sora2-AI.io](https://www.aimyflow.com/en/ai/sora2-ai-io)
+### [Thragg in Invincible](https://www.aimyflow.com/en/ai/thragg)
 
-Sora2-AI.io is an advanced AI video generator that transforms text and images into stunning videos. Try our AI video creator free - create professional results in minutes
-
-**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [VideotoRecipe](https://www.aimyflow.com/en/ai/videotorecipe-org)
-
-Convert user uploaded YouTube, Instagram, TikTok & Facebook cooking videos & Reels into recipes. AI recipe generator for notes, cookbook, short video maker.
+Explore Thragg in Invincible with a focused guide to who Thragg is, his role in the Viltrum Empire, how strong he is, and why Thragg vs Battle Beast is the matchup readers search for first.
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
 
@@ -216,71 +276,11 @@ Convert user uploaded YouTube, Instagram, TikTok & Facebook cooking videos & Ree
 
 <div class="tool-card" markdown="1">
 
-### [AI Video Generator with Sound](https://www.aimyflow.com/en/ai/plexigen-ai)
+### [WisGate](https://www.aimyflow.com/en/ai/wisgate)
 
-Plexigen AI generates videos with synchronized sound from text prompts or images, helping creators produce polished visual assets across multiple formats. It suits marketing, social, and brand teams that need quick turnaround without a traditional video production stack.
-
-**Suitable roles:** Digital Marketing Director, Social Media Content Creator, Copywriter, Independent Filmmaker, Graphic Designer
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [img2.ai](https://www.aimyflow.com/en/ai/img2-ai)
-
-img2.ai is an AI image and video creation platform that turns photos or prompts into stylized images, motion clips, and enhanced visuals. It is useful for designers, creators, and marketing teams that need fast visual iteration without complex editing workflows.
+WisGate is a unified AI API gateway and studio for developers, creators, and teams to access and compare models for chat, image, video, and code generation through one interface. It can help product and engineering teams speed integration and control model choice and costs with centralized routing and billing.
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Musiv](https://www.aimyflow.com/en/ai/musiv-ai)
-
-Musiv is an AI music video generator that turns songs into storyboarded visual clips from an uploaded track. It fits musicians, labels, and content teams that need faster, lower-cost video production for releases and social distribution.
-
-**Suitable roles:** Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter, Graphic Designer
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Photo Animate](https://www.aimyflow.com/en/ai/photoanimate-org)
-
-Photo Animate turns still images into lifelike video clips with motion controls for portraits and memory-driven content. It is useful for creators, family storytellers, and media teams that want emotionally natural animation without manual editing.
-
-**Suitable roles:** Social Media Content Creator, Independent Filmmaker, Graphic Designer, Copywriter, Digital Marketing Director
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Invicta AI](https://www.aimyflow.com/en/ai/invictai-io)
-
-Invicta AI is a no-code platform for building teams of AI agents that automate complex workflows across 70+ tools and leading LLMs, mainly for operations, customer support, scheduling, and developer teams. In AI-enabled workflows, it can help these professionals scale repetitive multi-step tasks with human approval controls, batch execution, and more consistent handoffs between systems.
-
-**Suitable roles:** Project Management Officer, COO, Software Development Manager, IT Infrastructure Manager, Customer Success Manager
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Kompas AI](https://www.aimyflow.com/en/ai/kompas-ai)
-
-Kompas AI is a discontinued B2C AI research service that helped users conduct in-depth research using multi-agent orchestration, context window management, and related AI agent techniques. Its planned transition toward AI agent permission control and safety management highlights how researchers and AI operations teams increasingly need governance tools alongside advanced agent workflows.
-
-**Suitable roles:** Data Scientist, Project Management Officer, Software Engineer, Cybersecurity Manager, Technical Writer
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Context-Aware AI Testing Platform for Faster, Smarter Release](https://www.aimyflow.com/en/ai/contextqa-com)
-
-QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA uses agentic AI to predict, generate tests, and validate every release.
-
-**Suitable roles:** Software Development Manager, Software Engineer, Project Management Officer, IT Infrastructure Manager, Cybersecurity Analyst
 
 </div>
 
@@ -288,7 +288,7 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 ## All Tools
 
 <details markdown="1">
-<summary>Expand the full tool directory (3293)</summary>
+<summary>Expand the full tool directory (3336)</summary>
 
 <p class="section-note">_Compact view for faster scanning._</p>
 
@@ -553,9 +553,17 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - AI Book Summarizer is an AI tool that turns uploaded PDF, EPUB, or TXT books into concise summaries and chapter-level answers, mainly for students, professionals, and regular readers who need faster comprehension. In...
   - *Suitable roles:* Teacher, College Professor, Financial Analyst, CEO +1 more
 
+- **[AI Clean Voice](https://www.aimyflow.com/en/ai/voicecleaner)**
+  - AI Clean Voice is an online AI voice cleaner that removes background noise, wind, and echo to enhance speech in uploaded audio, mainly for podcasters, video creators, educators, and production teams. It can help audio...
+  - *Suitable roles:* Podcast Producer, Social Media Content Creator, Education Technology Consultant, Technical Writer +1 more
+
 - **[AI Clothes Changer](https://www.aimyflow.com/en/ai/aiclothes-ai)**
   - AI Clothes Changer is an AI-powered virtual try-on tool that lets users upload a photo, swap outfits with clothing images or text prompts, and generate realistic clothing changes, mainly for fashion sellers, designers,...
   - *Suitable roles:* Fashion Designer, Ecommerce Seller, Content Creator, Graphic Designer +1 more
+
+- **[AI Coloring Page Generator](https://www.aimyflow.com/en/ai/aicoloringpagegenerator)**
+  - AI Coloring Page Generator is a tool that turns kid-friendly ideas into printable black-and-white coloring pages, with difficulty levels for different ages, mainly for parents and teachers. It can help educators and...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[AI Convert Hub](https://www.aimyflow.com/en/ai/aiconverthub-com)**
   - AI Convert Hub is an online file converter that helps users batch convert and compress video, audio, and image files with codec-aware controls and support for 200+ formats, mainly for creators, developers, and other...
@@ -616,6 +624,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[AI Human Generator](https://www.aimyflow.com/en/ai/generated-photos-human-generator)**
   - AI Human Generator is an AI tool for creating and modifying hyperrealistic full-body photos of people that do not exist, including changes to clothing, face and body traits, and poses, mainly for designers, marketers,...
   - *Suitable roles:* Graphic Designer, Digital Marketing Director, Content Creator, Social Media Content Creator +1 more
+
+- **[AI Humanizer](https://www.aimyflow.com/en/ai/ai-humanizer-online)**
+  - AI Humanizer is a text rewriting tool that turns AI-generated content into more natural, human-like writing while preserving meaning, tone, and structure, mainly for content creators and other writing professionals. It...
+  - *Suitable roles:* Copywriter, Social Media Content Creator, Technical Writer, Content Creator
 
 - **[AI Image Detector](https://www.aimyflow.com/en/ai/aiimagedetector-com)**
   - AI Image Detector is a free web tool that analyzes uploaded images to estimate whether they were generated by AI, helping journalists, educators, artists, and business or legal teams verify image authenticity quickly...
@@ -789,6 +801,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - AI Tattoo Cover Up Generator is an AI tool that helps people with unwanted or outdated tattoos upload a photo, select the area, and generate preview cover-up design ideas in different styles before consulting a tattoo...
   - *Suitable roles:* Graphic Designer, Interior Designer, Content Creator
 
+- **[AI Timeline Maker](https://www.aimyflow.com/en/ai/timeline-maker)**
+  - AI Timeline Maker is a free tool for creating, editing, and sharing visual timelines from prompts or documents, mainly for project managers, students, teachers, and creators. Its AI helps organize dates and events...
+  - *Suitable roles:* Project Management Officer, Education Technology Consultant, Teacher, Social Media Content Creator +1 more
+
 - **[AI UGC Video Generator](https://www.aimyflow.com/en/ai/aiugcvideogen-com)**
   - AI UGC Video Generator is an AI video ad creation tool that turns prompts and product images into short UGC-style ads with avatars, voiceovers, and platform-specific formats, mainly for marketers, founders, agencies,...
   - *Suitable roles:* Digital Marketing Director, E-commerce Sales Head, Social Media Content Creator, CEO +1 more
@@ -863,6 +879,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[AiBERT](https://www.aimyflow.com/en/ai/aibert-co)**
   - AiBERT is a WhatsApp-based AI assistant that helps users generate text, images, voice replies, transcriptions, and PDF summaries inside chat, mainly for people who want AI tools without installing a separate app. For...
   - *Suitable roles:* Digital Marketing Director, Social Media Content Creator, Copywriter, Technical Writer +1 more
+
+- **[AiCartoon](https://www.aimyflow.com/en/ai/aicartoon)**
+  - AiCartoon is an AI cartoon generator that turns photos into cartoon art, stylized portraits, and avatars for people who want quick image-to-cartoon results. It can help social media creators, designers, and marketers...
+  - *Suitable roles:* Social Media Content Creator, Graphic Designer, Digital Marketing Director, Copywriter +1 more
 
 - **[Aicotravel](https://www.aimyflow.com/en/ai/aicotravel-com)**
   - Aicotravel is an AI travel itinerary planner that helps users create personalized trip plans and explore destinations, mainly for travelers organizing single-city or multi-city journeys. For travel planners and...
@@ -1568,6 +1588,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - Aura AI is a web and mobile platform that brings together 20+ AI video and image models plus tools for text-to-video, text-to-image, image-to-video, talking avatars, reference-based video creation, and image editing,...
   - *Suitable roles:* Content Creator, Social Media Content Creator, Graphic Designer, Digital Marketing Director +1 more
 
+- **[AuraTuner](https://www.aimyflow.com/en/ai/auratuner)**
+  - AuraTuner is a studio-grade AI tool for creating product images, ecommerce listing visuals, posters, and short product videos, mainly for ecommerce sellers, marketers, and content creators. It can help product and...
+  - *Suitable roles:* Ecommerce Seller, Content Creator, Digital Marketing Director, Graphic Designer +1 more
+
 - **[Auri](https://www.aimyflow.com/en/ai/auri-ai)**
   - Auri is an AI assistant app and keyboard for Apple devices that helps users write, translate, chat, record, transcribe, and turn notes or voice memos into polished text, mainly for people who do frequent communication...
   - *Suitable roles:* Technical Writer, Copywriter, Content Creator, Teacher +1 more
@@ -2003,6 +2027,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - BookAbout is an AI-powered book discovery tool that helps readers find books by searching a large catalog with very specific queries. For readers, librarians, and booksellers, this kind of AI search can speed up title...
   - *Suitable roles:* Content Creator, Ecommerce Seller, Teacher
 
+- **[BookCoversLab](https://www.aimyflow.com/en/ai/bookcoverslab)**
+  - BookCoversLab is a KDP publishing toolkit for self-publishers that helps create, fix, validate, and export paperback, hardcover, and eBook covers in print-ready PDF format. It can help authors, indie publishers, and...
+  - *Suitable roles:* Ecommerce Seller, Technical Writer, Graphic Designer, Fiction Writer +1 more
+
 - **[BookScribi](https://www.aimyflow.com/en/ai/bookscribi-com)**
   - BookScribi is an AI book writing platform that creates non-fiction books, poetry collections, and eBooks with automated outlining, writing, editing, and formatting for authors and self-publishers. For independent...
   - *Suitable roles:* Fiction Writer, Content Creator, Copywriter, Technical Writer +1 more
@@ -2429,6 +2457,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[CC](https://www.aimyflow.com/en/ai/labs-google-cc)**
   - CC is an experimental AI productivity agent from Google Labs that connects Gmail, Calendar, and Drive to deliver a personalized daily email briefing and answer email-based requests, mainly for consumer Google account...
   - *Suitable roles:* CEO, COO, Project Management Officer, Branch Office Manager +1 more
+
+- **[CCNavX](https://www.aimyflow.com/en/ai/ccnavx)**
+  - CCNavX is a comparison site for cheap OpenAI API, Claude API proxy, and OpenAI-compatible providers, helping users compare pricing, model coverage, payment methods, and invoice support. It is mainly for developers and...
+  - *Suitable roles:* Software Engineer, IT Infrastructure Manager, Project Management Officer, Data Engineer
 
 - **[Cedalio](https://www.aimyflow.com/en/ai/cedalio-com)**
   - Cedalio is an AI document and data automation platform that helps finance teams, especially accounts payable staff, capture, validate, reconcile, and pay invoices, utility bills, purchase orders, and related finance...
@@ -2905,6 +2937,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - CodingFleet Python Code Generator is an AI coding tool that turns written instructions into Python code snippets for developers and other users working in Python. In AI-assisted software workflows, it can help...
   - *Suitable roles:* Software Engineer, Software Development Manager, Data Engineer, Online Coding Tutor +1 more
 
+- **[CodingPlan](https://www.aimyflow.com/en/ai/codingplan)**
+  - CodingPlan is a platform for buying AI coding plans from Alibaba, MiniMax, Kimi, GLM, and Qwen, helping developers choose lower-cost plans with similar quota and model capability. For coders and engineering teams, it...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
+
 - **[Codyco](https://www.aimyflow.com/en/ai/codyco-ai-en)**
   - Codyco is a phone AI for hotel groups that answers calls, handles common guest questions, and books rooms end to end with payment and PMS entry, mainly for hotel operators managing reception availability and direct...
   - *Suitable roles:* Restaurant General Manager, Branch Office Manager, COO, CEO +1 more
@@ -3275,6 +3311,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - Create Music AI is an AI music generator and editing toolkit that helps creators turn text or lyrics into royalty-free songs, remove vocals, split stems, edit MIDI, and analyze music, mainly for content creators and...
   - *Suitable roles:* Content Creator, Social Media Content Creator, Podcast Producer, Copywriter +1 more
 
+- **[Created by AI Creator](https://www.aimyflow.com/en/ai/createdbyaicreator)**
+  - Created by AI Creator is a tool that helps users create tarot readings, MBTI compatibility tests, and photo/video-based greeting card makers, mainly for individuals. It improves work for content creators.
+  - *Suitable roles:* Content Creator, Social Media Content Creator, Graphic Designer
+
 - **[Creatify](https://www.aimyflow.com/en/ai/creatify-ai)**
   - Creatify is an AI ad generation platform that turns product URLs into image and video ads, helps teams create, launch, test, and optimize ad variations, and is mainly for advertisers, brands, agencies, and e-commerce...
   - *Suitable roles:* Digital Marketing Director, E-commerce Sales Head, Content Creator, Graphic Designer +1 more
@@ -3358,6 +3398,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[Cutout.Pro](https://www.aimyflow.com/en/ai/cutout-pro)**
   - Cutout.Pro is an AI visual design platform that helps creators and businesses edit photos and videos, remove backgrounds, restore images, and generate visual content. In the AI era, it lets designers and marketers...
   - *Suitable roles:* Content Creator, Information Technology Managers, Computer Occupations, Media Communicators +7 more
+
+- **[CuttleAI Etsy Seller Assistant](https://www.aimyflow.com/en/ai/reply-cuttleai)**
+  - Etsy seller support workflow assistant. Understand buyer intent, see what to check next, and create shop-policy-aware drafts for orders, shipping, custom requests, refunds, reviews, and digital downloads.
+  - *Suitable roles:* Ecommerce Seller, Content Creator
 
 - **[CVGist](https://www.aimyflow.com/en/ai/cvgist-com)**
   - CVGist is an AI-powered resume generator that helps job seekers create, tailor, and import professional resumes quickly from a short brief, existing resume, or LinkedIn profile. For candidates and career-focused...
@@ -4148,6 +4192,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - EUrouter is a unified API for accessing and intelligently routing requests across 100+ AI models while keeping data in Europe, built mainly for developers and European organizations that need EU data residency and...
   - *Suitable roles:* Software Engineer, IT Infrastructure Manager, Cybersecurity Manager, Lawyer +1 more
 
+- **[Eva](https://www.aimyflow.com/en/ai/hireeva)**
+  - Eva is an AI operations manager for small businesses that helps owners, founders, and operators handle invoices, lead sourcing, outreach, client messages, site drafts, and workflow building. It can help operations,...
+  - *Suitable roles:* CEO, COO, Branch Office Manager, Field Sales Manager +1 more
+
 - **[Evalyy](https://www.aimyflow.com/en/ai/evalyy-com)**
   - Evalyy is an AI-powered quiz and video generation platform that turns chapter PDFs into interactive assessments and educational videos for teachers, students, and parents preparing for exams or supporting learning. For...
   - *Suitable roles:* Teacher, Test Prep Tutor, School Counselor, Education Technology Consultant +1 more
@@ -4681,6 +4729,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[Frase](https://www.aimyflow.com/en/ai/frase-io)**
   - Frase is an agentic SEO and GEO platform that researches competitors, helps create and optimize content, and tracks visibility across Google and AI search tools, mainly for content marketers, SEO teams, agencies, and...
   - *Suitable roles:* Digital Marketing Director, Copywriter, Content Creator, Technical Writer +1 more
+
+- **[Free AI text humanizer that](https://www.aimyflow.com/en/ai/humantone-ai)**
+  - Free AI text humanizer that turns ChatGPT, Claude, and Gemini drafts into natural human writing. No signup required, 6 modes, meaning stays the same.
+  - *Suitable roles:* Copywriter, Digital Marketing Director, Content Creator, Technical Writer +1 more
 
 - **[Free Image Generator](https://www.aimyflow.com/en/ai/freeimagegenerator-app)**
   - Free Image Generator is an AI image creation tool that turns text prompts into multiple high-resolution images with adjustable aspect ratios and simple image-to-image options, mainly for creators, marketers, and people...
@@ -5351,6 +5403,9 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - HeraHaven is an adults-only AI girlfriend app that lets users create customizable virtual companions for chat and AI-generated pictures, mainly for people seeking personalized romantic or fantasy roleplay interactions....
   - *Suitable roles:* Content Creator, Social Media Content Creator
 
+- **[Hero Siege Builds](https://www.aimyflow.com/en/ai/herosiegebuilds-org)**
+  - Hero Siege Builds is an unofficial planner for Hero Siege that helps players plan skills, gear, sockets, runewords, notes, and stat breakdowns in one place. It is mainly for Hero Siege players and build guides writers,...
+
 - **[HeroUI v3, previously NextUI,](https://www.aimyflow.com/en/ai/heroui-com)**
   - HeroUI v3, previously NextUI, is an open-source UI library for web and mobile that provides customizable components and themes to help developers and product teams build consistent user interfaces faster. For frontend...
   - *Suitable roles:* Software Engineer, Graphic Designer, Software Development Manager, Technical Writer
@@ -5430,6 +5485,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - HitPaw is a suite of AI tools for enhancing, editing, converting, compressing, and generating video, photo, and audio content, mainly for creators, editors, photographers, and media-focused businesses. In AI-driven...
   - *Suitable roles:* Content Creator, Graphic Designer, Ecommerce Seller, Social Media Content Creator +1 more
 
+- **[HMG Tools Redactor](https://www.aimyflow.com/en/ai/tools-hoppingmadgames)**
+  - HMG Tools Redactor is a browser-based redaction tool that helps users catch and replace sensitive text before it leaves their device, mainly for people handling prompts, support logs, invoices, school notes, and client...
+  - *Suitable roles:* Software Engineer, Technical Writer, Copywriter, School Counselor +1 more
+
 - **[Home Design AI](https://www.aimyflow.com/en/ai/home-design-ai)**
   - Home Design AI is an online home design tool that helps homeowners, renters, and interior design users create and visualize interiors, exteriors, gardens, and room layouts from photos or text prompts. For interior...
   - *Suitable roles:* Interior Designer, Real Estate Agent, Graphic Designer, Content Creator
@@ -5484,6 +5543,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[Hullo AI Bio Generator](https://www.aimyflow.com/en/ai/hullo-dating-ai-bio-generator)**
   - Hullo AI Bio Generator is a free AI tool that creates short, personalized dating profile bios in different tones and languages for people using dating apps like Tinder, Bumble, Hinge, OkCupid, and Hullo. For online...
   - *Suitable roles:* Copywriter, Content Creator, Social Media Content Creator
+
+- **[humaniz.app](https://www.aimyflow.com/en/ai/humaniz)**
+  - humaniz.app is a free AI humanizer that converts AI-generated text into more natural, human-like writing for anyone creating or editing content. It can help writers, marketers, students, and similar roles polish drafts...
+  - *Suitable roles:* Copywriter, Content Creator, Technical Writer, Teacher +1 more
 
 - **[Humanize](https://www.aimyflow.com/en/ai/humanize-sh)**
   - Humanize is an AI text humanizer and detector that rewrites content from tools like ChatGPT, Gemini, and Claude into more natural-sounding writing, mainly for students, writers, and professionals refining AI-assisted...
@@ -5601,6 +5664,14 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - Image Editor Online is a browser-based AI image editor that helps users edit, crop, enhance, remove backgrounds, and apply style changes with text prompts, mainly for beginners and people creating portraits, product...
   - *Suitable roles:* Graphic Designer, Social Media Content Creator, Digital Marketing Director, Ecommerce Seller +1 more
 
+- **[Image Layer Tool](https://www.aimyflow.com/en/ai/imagelayer)**
+  - Use ImageLayer.net to split design, product, and content images into editable transparent image layers for Photoshop, e-commerce, and content workflows.
+  - *Suitable roles:* Graphic Designer, Ecommerce Seller, Content Creator, Industrial Designer +1 more
+
+- **[Image to Image AI](https://www.aimyflow.com/en/ai/aiimagetoimage)**
+  - Free image to image AI generator — upload any photo, describe your edit, and get photorealistic results in seconds. No signup needed. The best AI image generator from image online.
+  - *Suitable roles:* Ecommerce Seller, Content Creator, Graphic Designer, Real Estate Agent +1 more
+
 - **[Image to Image AI](https://www.aimyflow.com/en/ai/imagetoimage-tech)**
   - Image to Image AI is an AI image generation and editing platform that helps users transform existing photos, sketches, or designs with prompts, mainly for creators, designers, and other visual content professionals. In...
   - *Suitable roles:* Graphic Designer, Social Media Content Creator, Digital Marketing Director, E-commerce Sales Head +1 more
@@ -5620,6 +5691,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[image2prompt.net](https://www.aimyflow.com/en/ai/image2prompt-net)**
   - image2prompt.net is a free AI image-to-prompt generator that analyzes uploaded images or image URLs and turns them into editable prompts for Midjourney, Stable Diffusion, Flux, and similar models, mainly for AI...
   - *Suitable roles:* Graphic Designer, Content Creator, Social Media Content Creator, Copywriter +1 more
+
+- **[imagecleanupai.com](https://www.aimyflow.com/en/ai/imagecleanupai)**
+  - imagecleanupai.com is an online AI text remover that helps users remove text, captions, subtitles, watermarks, and overlays from images while keeping backgrounds natural. It is mainly for creators, ecommerce teams,...
+  - *Suitable roles:* Graphic Designer, Ecommerce Seller, Digital Marketing Director, Content Creator +1 more
 
 - **[Imagen](https://www.aimyflow.com/en/ai/deepmind-google-technologies-imagen-3)**
   - Imagen is Google DeepMind’s text-to-image model that helps users generate high-quality images from written prompts, mainly for people creating visual concepts and creative assets. For designers, marketers, and other...
@@ -6077,6 +6152,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[Kagi](https://www.aimyflow.com/en/ai/kagi-com)**
   - Kagi is a paid search engine that delivers ad-free web search with an emphasis on higher-quality results and greater user control, aimed at professionals, researchers, and privacy-conscious users. It helps knowledge...
   - *Suitable roles:* Information Technology Managers, Marketing and Sales Managers, Legal Professionals, Physical Scientists +4 more
+
+- **[KaijuConverter OCR](https://www.aimyflow.com/en/ai/kaijuconverter-com-ocr)**
+  - KaijuConverter OCR is a free online tool that extracts text from images, photos, screenshots, and scanned PDFs, mainly for people who need to convert document content quickly. It can help office, operations, and...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[Kairos GPT](https://www.aimyflow.com/en/ai/kairosgpt-com)**
   - Kairos GPT is a finance AI assistant built by Kairos that helps users access financial information and support finance-related tasks, primarily for finance professionals and teams. It can improve analyst productivity...
@@ -7115,6 +7194,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - Marblism provides AI employees that help businesses manage inboxes, create social content, write SEO articles, and generate leads, mainly for small teams and growing companies. In the AI era, it allows operators and...
   - *Suitable roles:* Software Engineer, Digital Marketing Director, Corporate Leadership Coach, Customer Success Manager +22 more
 
+- **[Markdown Viewer Online](https://www.aimyflow.com/en/ai/markdown-viewer-online)**
+  - Markdown Viewer Online is a browser-based markdown viewer and editor that helps users open, preview, and export Markdown files, mainly for writers, developers, and anyone working on notes or documentation. Its live...
+  - *Suitable roles:* Technical Writer, Software Engineer, Education Technology Consultant, Copywriter
+
 - **[MarketAlerts](https://www.aimyflow.com/en/ai/marketalerts-ai)**
   - MarketAlerts is an AI-powered stock market signals and trading alerts platform that helps investors and traders monitor watchlists, spot technical patterns, track insider activity, and review earnings and market...
   - *Suitable roles:* Investment Portfolio Manager, Financial Analyst, Risk Analyst, CFO +1 more
@@ -7465,6 +7548,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - Miro is a collaborative innovation workspace that helps teams plan projects, design products, and work visually across brainstorming and execution. In the AI era, it gives product, design, and strategy teams a shared...
   - *Suitable roles:* Content Creator, Information Technology Managers, Marketing and Sales Managers, Operations Specialties Managers +6 more
 
+- **[mirofish.fish](https://www.aimyflow.com/en/ai/mirofish-fish)**
+  - mirofish.fish is an AI prediction workspace for people who need to explore possible futures from uploaded text, PDF, or Markdown and a question. It helps analysts, creators, and operations teams compare paths,...
+  - *Suitable roles:* Project Management Officer, Data Scientist, Financial Analyst, CEO +1 more
+
 - **[MiroMind](https://www.aimyflow.com/en/ai/miromind-ai)**
   - MiroMind is a reasoning-focused AI platform and operating system that helps organizations solve critical tasks with verifiable, multi-step analysis, mainly for teams in software engineering, legal, finance,...
   - *Suitable roles:* Software Engineer, Lawyer, Financial Analyst, Molecular Biologist +1 more
@@ -7591,6 +7678,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[Motion AI](https://www.aimyflow.com/en/ai/motion-ai)**
   - Motion AI is a visual chatbot builder that helps businesses build, train, and deploy chatbots, mainly for marketing and customer engagement teams. As AI-driven messaging becomes central to customer communication, it...
   - *Suitable roles:* Digital Marketing Director, Field Sales Manager, Customer Success Manager
+
+- **[Motion Control AI Video Generator](https://www.aimyflow.com/en/ai/fluxmov)**
+  - Use Motion Control AI to guide character movement with a reference video. Reduce prompt guesswork, face drift, random motion, and failed AI video retries.
+  - *Suitable roles:* Social Media Content Creator, Podcast Producer, Independent Filmmaker, Graphic Designer +1 more
 
 - **[Motives](https://www.aimyflow.com/en/ai/motives-ai)**
   - Motives is an AI-powered qualitative research platform that helps insights and marketing teams at consumer brands run in-depth video interviews, test concepts and creative, and turn consumer feedback into actionable...
@@ -7799,6 +7890,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[Narrative](https://www.aimyflow.com/en/ai/trynarrative-com)**
   - Narrative is an AI quality assurance tool that helps teams create, run, and maintain end-to-end product tests without code, mainly for software teams shipping web products. For QA, engineering, and product functions,...
   - *Suitable roles:* Software Development Manager, Software Engineer, Project Management Officer, Data Engineer
+
+- **[NatalChart.AI](https://www.aimyflow.com/en/ai/natalchart-ai)**
+  - NatalChart.AI is a free AI natal chart tool for people who want a chart-based astrology reading from their birth data, using Swiss Ephemeris calculations and AI narration. It can help astrologers and content teams...
+  - *Suitable roles:* Wellness Coach, Content Creator
 
 - **[NaturalReader](https://www.aimyflow.com/en/ai/naturalreaders-com)**
   - NaturalReader is an AI text-to-speech platform that converts written content into natural-sounding audio for individuals, educators, and businesses across web, mobile, and commercial use cases. It helps teachers,...
@@ -8591,6 +8686,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - PDF to Video AI is an online AI video maker that converts PDFs, article links, text, and prompts into explainer videos with animations and narration, mainly for educators, business professionals, marketers, students,...
   - *Suitable roles:* Content Creator, Digital Marketing Director, Teacher, Corporate Leadership Coach +1 more
 
+- **[PDF Translate](https://www.aimyflow.com/en/ai/pdf-translation)**
+  - PDF Translate is a browser-based AI document translator that lets users upload PDFs, choose source and target languages, and download translated files while preserving layout, tables, fonts, and images. It is mainly...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
+
 - **[PDF2MP3](https://www.aimyflow.com/en/ai/pdf2mp3-com)**
   - PDF2MP3 is an online AI text-to-speech tool that converts PDF documents into MP3 audio with selectable voices, languages, and playback settings, mainly for people who want to listen to documents such as study...
   - *Suitable roles:* Teacher, College Professor, Technical Writer, Software Engineer +1 more
@@ -9093,6 +9192,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - Predis.ai is an AI social media marketing tool that helps users create video and image content and analyze performance, mainly for marketers, agencies, and growing brands. It shortens content planning and production...
   - *Suitable roles:* Content Creator
 
+- **[Pregnancy AI](https://www.aimyflow.com/en/ai/pregnancyai-ai)**
+  - Pregnancy AI is a free online tool for creating AI maternity photos, editing selfies into pregnancy portraits, generating short pregnancy videos, and predicting a baby’s face, mainly for expecting mothers and couples....
+  - *Suitable roles:* Content Creator, Graphic Designer, Food Enthusiast
+
 - **[PrepAI](https://www.aimyflow.com/en/ai/prepai-in-us)**
   - PrepAI is an AI-assisted assessment platform that helps educators and academic institutions create quizzes and tests, grade work, and track student performance more efficiently, mainly for faculty, universities, and...
   - *Suitable roles:* College Professor, Education Technology Consultant, School Counselor, Teacher
@@ -9151,6 +9254,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[Procys](https://www.aimyflow.com/en/ai/procys-com)**
   - Procys is an AI document processing platform that extracts data from invoices, purchase orders, receipts, ID cards, and other business documents, mainly for accounting teams, accounting firms, and operations-heavy...
   - *Suitable roles:* Certified Public Accountant, Financial Analyst, Logistics Operations Planner, Medical Biller +1 more
+
+- **[Product Creative Generator](https://www.aimyflow.com/en/ai/productcreativegenerator-com)**
+  - Product Creative Generator is an AI tool that turns one product photo into ecommerce image sets for listings, product pages, ads, and social tests, mainly for online sellers and ecommerce teams. It can help designers...
+  - *Suitable roles:* Ecommerce Seller, Graphic Designer, Content Creator, Digital Marketing Director
 
 - **[ProductDescriber](https://www.aimyflow.com/en/ai/productdescriber-com)**
   - ProductDescriber is an AI writing tool that helps users generate product descriptions quickly, mainly for ecommerce merchants, catalog managers, and digital marketers. It streamlines repetitive copy creation so...
@@ -9663,6 +9770,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - RemodelerIQ is an AI-powered bid analyzer that helps homeowners review contractor renovation estimates for inflated pricing, hidden costs, missing scope items, and contract red flags using local market, labor, and...
   - *Suitable roles:* Real Estate Agent
 
+- **[Remova](https://www.aimyflow.com/en/ai/remova)**
+  - Remova is an enterprise AI governance platform for teams that lets companies use ChatGPT, Claude, Gemini, and 300+ models with policy controls, sensitive-data masking, role-based access, audit visibility, and budget...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
+
 - **[Remove Text from Video](https://www.aimyflow.com/en/ai/removetextfromvideo-com)**
   - Remove Text from Video is an AI video cleanup tool that detects and removes subtitles, captions, date stamps, and other text overlays while preserving original resolution and quality, mainly for video creators and...
   - *Suitable roles:* Social Media Content Creator, Content Creator, Digital Marketing Director, Copywriter +1 more
@@ -9678,6 +9789,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[RemoveBGVideo](https://www.aimyflow.com/en/ai/removebgvideo-com)**
   - RemoveBGVideo is an AI-powered online video background remover that helps users automatically remove and replace video backgrounds without a green screen, mainly for content creators and video editors. In AI-era video...
   - *Suitable roles:* Content Creator, Social Media Content Creator, Digital Marketing Director, Graphic Designer +1 more
+
+- **[Remover.video](https://www.aimyflow.com/en/ai/remover)**
+  - Remover.video is an AI-powered online editor that removes text, watermarks, logos, subtitles, and captions from videos for creators and teams repurposing social media content. It can help video editors, social media...
+  - *Suitable roles:* Social Media Content Creator, Digital Marketing Director, Copywriter, Content Creator
 
 - **[RemoverMarca](https://www.aimyflow.com/en/ai/removermarca-com-en)**
   - RemoverMarca is an AI watermark remover that helps users automatically remove watermarks from photos online in 4K quality, with bulk processing and mobile browser support, mainly for creators and people handling many...
@@ -9945,6 +10060,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - Rolemantic AI is an AI chatbot platform for adult users to chat with NSFW AI characters, create their own characters, generate AI art, and engage in uncensored role-play and sexting. For adult-content creators and...
   - *Suitable roles:* Content Creator, Social Media Content Creator, Graphic Designer, Copywriter
 
+- **[RoleTTS](https://www.aimyflow.com/en/ai/roletts)**
+  - RoleTTS is an AI voice generator for character text to speech, voice design, voice cloning, multilingual dubbing, and talking avatar workflows, mainly for creators building story, game, and video content. It helps...
+  - *Suitable roles:* Podcast Producer, Independent Filmmaker, Voice Actor, Social Media Content Creator +1 more
+
 - **[Rollstack](https://www.aimyflow.com/en/ai/rollstack-com)**
   - Rollstack is a reporting automation tool that connects BI and analytics data to slide decks, documents, and emails, helping data, finance, operations, customer success, and marketing teams create recurring reports and...
   - *Suitable roles:* Financial Analyst, Project Management Officer, Digital Marketing Director, Software Engineer +1 more
@@ -10096,9 +10215,17 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - scalerX.ai is a RAG platform for creating personalized AI agents in Telegram, helping users train bots on their own files and content to handle support, sales, learning, research, and community interactions, mainly for...
   - *Suitable roles:* Software Development Manager, Customer Success Manager, Field Sales Manager, Education Technology Consultant
 
+- **[ScamSpot](https://www.aimyflow.com/en/ai/scamspot)**
+  - Paste a suspicious message, email, WhatsApp text, or URL and get a free scam risk check with clear next steps.
+  - *Suitable roles:* Cybersecurity Analyst, Cybersecurity Manager, Software Engineer
+
 - **[Scanbase](https://www.aimyflow.com/en/ai/scanbase-com)**
   - Scanbase is a digital health diagnostics company that uses computer vision to turn photos of rapid diagnostic tests into positive or negative results, mainly for healthcare organizations and teams managing at-home...
   - *Suitable roles:* Healthcare Administrator, Medical Lab Technician, IT Infrastructure Manager, Data Engineer +1 more
+
+- **[ScanRead.ai](https://www.aimyflow.com/en/ai/scanread)**
+  - ScanRead.ai is a free OCR tool that extracts editable text from images, screenshots, scanned PDFs, and documents for anyone who needs quick text conversion. It can help operations, finance, and admin teams turn...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[ScanRelief](https://www.aimyflow.com/en/ai/scanrelief-com)**
   - ScanRelief is a Windows and Mac desktop tool that uses OpenAI to process receipts and invoices, rename files from their contents, and generate Excel reports, mainly for people handling bookkeeping, expense tracking, or...
@@ -10418,6 +10545,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[SigmanticAI](https://www.aimyflow.com/en/ai/sigmanticai-com)**
   - SigmanticAI is an AI hardware verification automation tool that generates UVM testbenches, constrained stimulus, functional coverage, assertions, and register models for semiconductor design verification engineers...
   - *Suitable roles:* Electrical Engineer, Software Engineer, Software Development Manager, Project Management Officer +1 more
+
+- **[Signal Desk](https://www.aimyflow.com/en/ai/signal-desk-study-tools-netlify)**
+  - Signal Desk is a free no-login AI study prompt generator that helps students turn lecture notes, readings, exam topics, and source lists into prompts for active recall, quizzes, flashcards, and study plans. It can help...
+  - *Suitable roles:* Test Prep Tutor, Education Technology Consultant, Online Coding Tutor, Teacher
 
 - **[Signal87 AI](https://www.aimyflow.com/en/ai/signal87-ai)**
   - Signal87 AI is an enterprise document intelligence platform that helps legal, compliance, finance, and other regulated teams extract entities, dates, amounts, and risk indicators from documents, ask cited questions,...
@@ -11001,6 +11132,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - StockNews.AI Agent is an AI-powered market news tool that turns financial headlines into stock signals, alerts, and analysis to help investors track price-moving developments and make decisions. For investors and...
   - *Suitable roles:* Financial Analyst, Investment Portfolio Manager, Risk Analyst, CFO +1 more
 
+- **[StopScroll](https://www.aimyflow.com/en/ai/stopscroll)**
+  - StopScroll is an AI thumbnail maker and picker that generates multiple thumbnail options, compares their strengths and weaknesses, and recommends the best cover before publishing, mainly for creators and faceless...
+  - *Suitable roles:* Social Media Content Creator, Podcast Producer, Copywriter, Content Creator
+
 - **[Stormy](https://www.aimyflow.com/en/ai/stormy-ai)**
   - Stormy is an AI agent for influencer marketing that helps marketing teams and brands find creators, automate outreach and negotiations, manage campaigns, track performance, and handle creator payments across major...
   - *Suitable roles:* Digital Marketing Director, Content Creator, E-commerce Sales Head, CEO
@@ -11534,6 +11669,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - TermOver AI is a Chrome extension that uses AI to analyze Terms of Service and privacy policies, summarize them in plain English, and flag issues like data selling, tracking, or hidden fees for everyday web users who...
   - *Suitable roles:* Risk Analyst, Lawyer, Cybersecurity Analyst, Other Sales Roles
 
+- **[TermsHuman](https://www.aimyflow.com/en/ai/termshuman)**
+  - TermsHuman is a plain-English contract analyzer that summarizes terms of service, policies, and agreements, flags red risks, and shows key commitments in English or Spanish for people who need to review legal text...
+  - *Suitable roles:* Lawyer, CEO, CFO, Project Management Officer
+
 - **[Termzy AI](https://www.aimyflow.com/en/ai/termzyai-com)**
   - Termzy AI is a Chrome browser extension that uses AI to analyze privacy policies and terms and conditions, helping people quickly understand legal fine print while they browse online. For privacy-conscious users,...
   - *Suitable roles:* Lawyer, Cybersecurity Analyst, Risk Analyst, Technical Writer
@@ -11613,6 +11752,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - The Prompt Challenge is a practice platform that helps users improve AI prompting by describing images and websites, comparing AI-generated results to references, and competing on scores, mainly for people learning...
   - *Suitable roles:* Graphic Designer, Software Engineer, Education Technology Consultant, Content Creator +1 more
 
+- **[The Square Face Generator](https://www.aimyflow.com/en/ai/squareface-generator)**
+  - The Square Face Generator is a free online tool that helps users create customizable square face icons and avatars, mainly for social media and online profiles. It can improve the work of graphic designers and social...
+  - *Suitable roles:* Social Media Content Creator, Graphic Designer, Digital Marketing Director
+
 - **[Thea](https://www.aimyflow.com/en/ai/theastudy-com-home)**
   - Thea is an AI study platform that turns course materials like notes, PDFs, textbooks, images, and lecture videos into practice questions, flashcards, study guides, and tests for students, educators, and institutions....
   - *Suitable roles:* Teacher, College Professor, Education Technology Consultant, Test Prep Tutor +1 more
@@ -11674,6 +11817,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - This page is a news article outlining eight AI trends for 2025, helping technology professionals and business decision-makers understand developments such as AI safety, autonomous agents, federated learning, edge AI,...
   - *Suitable roles:* Software Development Manager, CEO, Cybersecurity Manager, Project Management Officer +1 more
 
+- **[This tool](https://www.aimyflow.com/en/ai/airemovetextfromimage)**
+  - This tool helps users remove text from images online with AI, mainly for designers and editors. It improves their work by automating text removal.
+  - *Suitable roles:* Graphic Designer, Digital Marketing Director, E-commerce Sales Head, Software Engineer +1 more
+
 - **[This website](https://www.aimyflow.com/en/ai/askviable-com)**
   - This website is an informational guide and comparison directory for casino utan svensk licens, helping Swedish players review offshore online casinos, understand taxes and payment methods, and assess licensing and...
   - *Suitable roles:* Copywriter, Content Creator, Financial Analyst, Lawyer
@@ -11689,6 +11836,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[Thorntale](https://www.aimyflow.com/en/ai/thorntale-com)**
   - Thorntale is an AI-native presentation builder that helps users turn ideas into client-ready slide decks with automatic layouts, themes, proofreading, charts, and template-based editing, mainly for professionals who...
   - *Suitable roles:* Digital Marketing Director, Field Sales Manager, CEO, Copywriter +1 more
+
+- **[Thragg in Invincible](https://www.aimyflow.com/en/ai/thragg)**
+  - Explore Thragg in Invincible with a focused guide to who Thragg is, his role in the Viltrum Empire, how strong he is, and why Thragg vs Battle Beast is the matchup readers search for first.
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[Thread](https://www.aimyflow.com/en/ai/usethread-io)**
   - Thread is business software for operations, automation, and payments that helps teams route incidents, manage a service catalog, and improve communication around production environments, mainly for operations and...
@@ -12334,6 +12485,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - Veo 3.1 AI Video Generator is a text-and-image-to-video tool that helps users create cinematic videos quickly, mainly for marketers, creators, and creative teams. In the AI era, generative video speeds up concept...
   - *Suitable roles:* Digital Marketing Director, E-commerce Sales Head, Education Technology Consultant, Content Creator +4 more
 
+- **[Veo 4 AI Video Generator Online](https://www.aimyflow.com/en/ai/veo4free)**
+  - Veo 4 AI Video Generator Online is a browser-based tool for creating text-to-video and image-to-video clips, mainly for creators, marketers, filmmakers, educators, and content teams. Its native audio, 4K output, and...
+  - *Suitable roles:* Social Media Content Creator, Podcast Producer, Independent Filmmaker, Digital Marketing Director +1 more
+
 - **[Vera Health](https://www.aimyflow.com/en/ai/vera-health-ai)**
   - Vera Health is an AI clinical decision-support search engine that helps licensed clinicians and trainees find concise, evidence-based answers, differential diagnoses, treatment plans, and clinical calculations from...
   - *Suitable roles:* Family Doctor, Cardiologist, Pediatrician, Healthcare Administrator +1 more
@@ -12658,6 +12813,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
   - Vizard.ai is an AI video editing and clipping tool that turns long-form videos into social-ready short clips, captions, and resized formats for creators, podcasters, marketers, coaches, agencies, and teams producing...
   - *Suitable roles:* Content Creator, Social Media Content Creator, Digital Marketing Director, Podcast Producer +1 more
 
+- **[Vizcept](https://www.aimyflow.com/en/ai/vizcept)**
+  - Vizcept is an AI concept diagram generator that turns plain-English descriptions into structured diagrams for students, researchers, and educators. It can help researchers, instructors, and students save time on...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
+
 - **[VMEG AI Video Translator](https://www.aimyflow.com/en/ai/vmeg-ai-tools-video-translator)**
   - VMEG AI Video Translator is an online video translation and dubbing tool that helps users localize videos into 170+ languages with AI voices, voice cloning, lip sync, and subtitles, mainly for content creators,...
   - *Suitable roles:* Content Creator, Digital Marketing Director, Social Media Content Creator, Technical Writer +1 more
@@ -12677,6 +12836,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[Vocova](https://www.aimyflow.com/en/ai/vocova-app)**
   - Vocova is an AI transcription tool that converts audio and video into text in 100+ languages, with speaker labels, timestamps, translation, summaries, and multiple export formats, mainly for teams and professionals...
   - *Suitable roles:* Podcast Producer, Content Creator, Technical Writer, School Counselor +1 more
+
+- **[Voice Cleaner](https://www.aimyflow.com/en/ai/voicecleaner-org)**
+  - Use VoiceCleaner as an online voice cleaner to remove background noise from audio, clean voice recordings, and preview clearer podcast or meeting audio.
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[Voice.ai](https://www.aimyflow.com/en/ai/voice-ai)**
   - Voice.ai is an AI voice platform that helps developers, enterprises, and creators build voice agents, generate text to speech, clone voices, and change voices in real time with APIs, SDKs, and online tools. For...
@@ -12733,6 +12896,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[VoooAI](https://www.aimyflow.com/en/ai/voooai-com)**
   - VoooAI is the world's first Multimedia NL2Workflow Platform with visual node canvas. AI auto-generates workflows: node selection, wiring, prompts filled automatically. Every node adjustable. Complete pipeline from...
   - *Suitable roles:* Content Creator, Digital Marketing Director, Graphic Designer, Copywriter +1 more
+
+- **[Voqusa](https://www.aimyflow.com/en/ai/voqusa-com)**
+  - Voqusa is a free AI video transcript generator that turns videos from TikTok, YouTube, Instagram, Facebook, X, LinkedIn, and Pinterest into clean text, mainly for creators, marketers, researchers, and accessibility...
+  - *Suitable roles:* Social Media Content Creator, Digital Marketing Director, Content Creator, Podcast Producer +1 more
 
 - **[Vora](https://www.aimyflow.com/en/ai/fineshare-net-ai-video)**
   - Vora is an AI video generator that turns text prompts, images, and short videos into watermark-free videos, prompts, and enhanced outputs for content creators, marketers, and educators. For social media and marketing...
@@ -12952,6 +13119,10 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 - **[WisGate](https://www.aimyflow.com/en/ai/wisdom-gate-juheapi-com)**
   - WisGate is a unified AI API gateway and browser-based studio that helps developers, creators, teams, and businesses access and use multiple LLM, image, video, and coding models through one interface and API. For...
   - *Suitable roles:* Software Engineer, Software Development Manager, Content Creator, Digital Marketing Director +1 more
+
+- **[WisGate](https://www.aimyflow.com/en/ai/wisgate)**
+  - WisGate is a unified AI API gateway and studio for developers, creators, and teams to access and compare models for chat, image, video, and code generation through one interface. It can help product and engineering...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[Wisio](https://www.aimyflow.com/en/ai/wisio-app)**
   - Wisio is an AI-powered scientific writing assistant that helps researchers and scientists draft, improve, and format papers with writing suggestions, reference finding, grammar correction, and rewriting tools. For...
